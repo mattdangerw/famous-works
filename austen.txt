@@ -1,9 +1,3 @@
-PERSUASION
-
-by Jane Austen
-
-(1818)
-
 Sir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the Baronetage; there he found occupation for an idle hour, and consolation in a distressed one; there his faculties were roused into admiration and respect, by contemplating the limited remnant of the earliest patents; there any unwelcome sensations, arising from domestic affairs changed naturally into pity and contempt as he turned over the almost endless creations of the last century; and there, if every other leaf were powerless, he could read his own history with an interest which never failed.  This was the page at which the favourite volume always opened:
 
 "ELLIOT OF KELLYNCH HALL.
@@ -911,8 +905,6 @@ They got on fast.  Anne was astonished to recognise the same hills and the same 
 She did:  he was satisfied, and said no more.  But the remembrance of the appeal remained a pleasure to her, as a proof of friendship, and of deference for her judgement, a great pleasure; and when it became a sort of parting proof, its value did not lessen.
 
 When the distressing communication at Uppercross was over, and he had seen the father and mother quite as composed as could be hoped, and the daughter all the better for being with them, he announced his intention of returning in the same carriage to Lyme; and when the horses were baited, he was off.
-
-(End of volume one.)
 
 The remainder of Anne's time at Uppercross, comprehending only two days, was spent entirely at the Mansion House; and she had the satisfaction of knowing herself extremely useful there, both as an immediate companion, and as assisting in all those arrangements for the future, which, in Mr and Mrs Musgrove's distressed state of spirits, would have been difficulties.
 
@@ -2015,16 +2007,6 @@ Anne, satisfied at a very early period of Lady Russell's meaning to love Captain
 Her recent good offices by Anne had been enough in themselves, and their marriage, instead of depriving her of one friend, secured her two.  She was their earliest visitor in their settled life; and Captain Wentworth, by putting her in the way of recovering her husband's property in the West Indies, by writing for her, acting for her, and seeing her through all the petty difficulties of the case with the activity and exertion of a fearless man and a determined friend, fully requited the services which she had rendered, or ever meant to render, to his wife.
 
 Mrs Smith's enjoyments were not spoiled by this improvement of income, with some improvement of health, and the acquisition of such friends to be often with, for her cheerfulness and mental alacrity did not fail her; and while these prime supplies of good remained, she might have bid defiance even to greater accessions of worldly prosperity.  She might have been absolutely rich and perfectly healthy, and yet be happy.  Her spring of felicity was in the glow of her spirits, as her friend Anne's was in the warmth of her heart.  Anne was tenderness itself, and she had the full worth of it in Captain Wentworth's affection.  His profession was all that could ever make her friends wish that tenderness less, the dread of a future war all that could dim her sunshine.  She gloried in being a sailor's wife, but she must pay the tax of quick alarm for belonging to that profession which is, if possible, more distinguished in its domestic virtues than in its national importance.
-
-Finis
-
-NORTHANGER ABBEY
-
-by Jane Austen (1803)
-
-ADVERTISEMENT BY THE AUTHORESS, TO NORTHANGER ABBEY
-
-THIS little work was finished in the year 1803, and intended for immediate publication. It was disposed of to a bookseller, it was even advertised, and why the business proceeded no farther, the author has never been able to learn. That any bookseller should think it worth-while to purchase what he did not think it worth-while to publish seems extraordinary. But with this, neither the author nor the public have any other concern than as some observation is necessary upon those parts of the work which thirteen years have made comparatively obsolete. The public are entreated to bear in mind that thirteen years have passed since it was finished, many more since it was begun, and that during that period, places, manners, books, and opinions have undergone considerable changes.
 
 No one who had ever seen Catherine Morland in her infancy would have supposed her born to be an heroine. Her situation in life, the character of her father and mother, her own person and disposition, were all equally against her. Her father was a clergyman, without being neglected, or poor, and a very respectable man, though his name was Richard--and he had never been handsome. He had a considerable independence besides two good livings--and he was not in the least addicted to locking up his daughters. Her mother was a woman of useful plain sense, with a good temper, and, what is more remarkable, with a good constitution. She had three sons before Catherine was born; and instead of dying in bringing the latter into the world, as anybody might expect, she still lived on--lived to have six children more--to see them growing up around her, and to enjoy excellent health herself. A family of ten children will be always called a fine family, where there are heads and arms and legs enough for the number; but the Morlands had little other right to the word, for they were in general very plain, and Catherine, for many years of her life, as plain as any. She had a thin awkward figure, a sallow skin without colour, dark lank hair, and strong features--so much for her person; and not less unpropitious for heroism seemed her mind. She was fond of all boy's plays, and greatly preferred cricket not merely to dolls, but to the more heroic enjoyments of infancy, nursing a dormouse, feeding a canary-bird, or watering a rose-bush. Indeed she had no taste for a garden; and if she gathered flowers at all, it was chiefly for the pleasure of mischief--at least so it was conjectured from her always preferring those which she was forbidden to take. Such were her propensities--her abilities were quite as extraordinary. She never could learn or understand anything before she was taught; and sometimes not even then, for she was often inattentive, and occasionally stupid. Her mother was three months in teaching her only to repeat the "Beggar's Petition"; and after all, her next sister, Sally, could say it better than she did. Not that Catherine was always stupid--by no means; she learnt the fable of "The Hare and Many Friends" as quickly as any girl in England. Her mother wished her to learn music; and Catherine was sure she should like it, for she was very fond of tinkling the keys of the old forlorn spinnet; so, at eight years old she began. She learnt a year, and could not bear it; and Mrs. Morland, who did not insist on her daughters being accomplished in spite of incapacity or distaste, allowed her to leave off. The day which dismissed the music-master was one of the happiest of Catherine's life. Her taste for drawing was not superior; though whenever she could obtain the outside of a letter from her mother or seize upon any other odd piece of paper, she did what she could in that way, by drawing houses and trees, hens and chickens, all very much like one another. Writing and accounts she was taught by her father; French by her mother: her proficiency in either was not remarkable, and she shirked her lessons in both whenever she could. What a strange, unaccountable character!--for with all these symptoms of profligacy at ten years old, she had neither a bad heart nor a bad temper, was seldom stubborn, scarcely ever quarrelsome, and very kind to the little ones, with few interruptions of tyranny; she was moreover noisy and wild, hated confinement and cleanliness, and loved nothing so well in the world as rolling down the green slope at the back of the house.
 
@@ -4065,18 +4047,6 @@ The influence of the viscount and viscountess in their brother's behalf was assi
 
 On the strength of this, the general, soon after Eleanor's marriage, permitted his son to return to Northanger, and thence made him the bearer of his consent, very courteously worded in a page full of empty professions to Mr. Morland. The event which it authorized soon followed: Henry and Catherine were married, the bells rang, and everybody smiled; and, as this took place within a twelvemonth from the first day of their meeting, it will not appear, after all the dreadful delays occasioned by the general's cruelty, that they were essentially hurt by it. To begin perfect happiness at the respective ages of twenty-six and eighteen is to do pretty well; and professing myself moreover convinced that the general's unjust interference, so far from being really injurious to their felicity, was perhaps rather conducive to it, by improving their knowledge of each other, and adding strength to their attachment, I leave it to be settled, by whomsoever it may concern, whether the tendency of this work be altogether to recommend parental tyranny, or reward filial disobedience.
 
-*Vide a letter from Mr. Richardson, No. 97, Vol. II, Rambler.
-
-A NOTE ON THE TEXT
-
-Northanger Abbey was written in 1797-98 under a different title. The manuscript was revised around 1803 and sold to a London publisher, Crosbie & Co., who sold it back in 1816. The Signet Classic text is based on the first edition, published by John Murray, London, in 1818--the year following Miss Austen's death. Spelling and punctuation have been largely brought into conformity with modern British usage.
-
-MANSFIELD PARK
-
-(1814)
-
-By Jane Austen
-
 About thirty years ago Miss Maria Ward, of Huntingdon, with only seven thousand pounds, had the good luck to captivate Sir Thomas Bertram, of Mansfield Park, in the county of Northampton, and to be thereby raised to the rank of a baronet's lady, with all the comforts and consequences of an handsome house and large income. All Huntingdon exclaimed on the greatness of the match, and her uncle, the lawyer, himself, allowed her to be at least three thousand pounds short of any equitable claim to it. She had two sisters to be benefited by her elevation; and such of their acquaintance as thought Miss Ward and Miss Frances quite as handsome as Miss Maria, did not scruple to predict their marrying with almost equal advantage. But there certainly are not so many men of large fortune in the world as there are pretty women to deserve them. Miss Ward, at the end of half a dozen years, found herself obliged to be attached to the Rev. Mr. Norris, a friend of her brother-in-law, with scarcely any private fortune, and Miss Frances fared yet worse. Miss Ward's match, indeed, when it came to the point, was not contemptible: Sir Thomas being happily able to give his friend an income in the living of Mansfield; and Mr. and Mrs. Norris began their career of conjugal felicity with very little less than a thousand a year. But Miss Frances married, in the common phrase, to disoblige her family, and by fixing on a lieutenant of marines, without education, fortune, or connexions, did it very thoroughly. She could hardly have made a more untoward choice. Sir Thomas Bertram had interest, which, from principle as well as pride--from a general wish of doing right, and a desire of seeing all that were connected with him in situations of respectability, he would have been glad to exert for the advantage of Lady Bertram's sister; but her husband's profession was such as no interest could reach; and before he had time to devise any other method of assisting them, an absolute breach between the sisters had taken place. It was the natural result of the conduct of each party, and such as a very imprudent marriage almost always produces. To save herself from useless remonstrance, Mrs. Price never wrote to her family on the subject till actually married. Lady Bertram, who was a woman of very tranquil feelings, and a temper remarkably easy and indolent, would have contented herself with merely giving up her sister, and thinking no more of the matter; but Mrs. Norris had a spirit of activity, which could not be satisfied till she had written a long and angry letter to Fanny, to point out the folly of her conduct, and threaten her with all its possible ill consequences. Mrs. Price, in her turn, was injured and angry; and an answer, which comprehended each sister in its bitterness, and bestowed such very disrespectful reflections on the pride of Sir Thomas as Mrs. Norris could not possibly keep to herself, put an end to all intercourse between them for a considerable period.
 
 Their homes were so distant, and the circles in which they moved so distinct, as almost to preclude the means of ever hearing of each other's existence during the eleven following years, or, at least, to make it very wonderful to Sir Thomas that Mrs. Norris should ever have it in her power to tell them, as she now and then did, in an angry voice, that Fanny had got another child. By the end of eleven years, however, Mrs. Price could no longer afford to cherish pride or resentment, or to lose one connexion that might possibly assist her. A large and still increasing family, an husband disabled for active service, but not the less equal to company and good liquor, and a very small income to supply their wants, made her eager to regain the friends she had so carelessly sacrificed; and she addressed Lady Bertram in a letter which spoke so much contrition and despondence, such a superfluity of children, and such a want of almost everything else, as could not but dispose them all to a reconciliation. She was preparing for her ninth lying-in; and after bewailing the circumstance, and imploring their countenance as sponsors to the expected child, she could not conceal how important she felt they might be to the future maintenance of the eight already in being. Her eldest was a boy of ten years old, a fine spirited fellow, who longed to be out in the world; but what could she do? Was there any chance of his being hereafter useful to Sir Thomas in the concerns of his West Indian property? No situation would be beneath him; or what did Sir Thomas think of Woolwich? or how could a boy be sent out to the East?
@@ -6065,11 +6035,6 @@ To Henry Crawford they gave a different feeling. He longed to have been at sea, 
 
 The wish was rather eager than lasting. He was roused from the reverie of retrospection and regret produced by it, by some inquiry from Edmund as to his plans for the next day's hunting; and he found it was as well to be a man of fortune at once with horses and grooms at his command. In one respect it was better, as it gave him the means of conferring a kindness where he wished to oblige. With spirits, courage, and curiosity up to anything, William expressed an inclination to hunt; and Crawford could mount him without the slightest inconvenience to himself, and with only some scruples to obviate in Sir Thomas, who knew better than his nephew the value of such a loan, and some alarms to reason away in Fanny. She feared for William; by no means convinced by all that he could relate of his own horsemanship in various countries, of the scrambling parties in which he had been engaged, the rough horses and mules he had ridden, or his many narrow escapes from dreadful falls, that he was at all equal to the management of a high-fed hunter in an English fox-chase; nor till he returned safe and well, without accident or discredit, could she be reconciled to the risk, or feel any of that obligation to Mr. Crawford for lending the horse which he had fully intended it should produce. When it was proved, however, to have done William no harm, she could allow it to be a kindness, and even reward the owner with a smile when the animal was one minute tendered to his use again; and the next, with the greatest cordiality, and in a manner not to be resisted, made over to his use entirely so long as he remained in Northamptonshire.
 
-[End volume one of this edition.
-Printed by T. and A. Constable,
-Printers to Her Majesty at
-the Edinburgh University Press]
-
 The intercourse of the two families was at this period more nearly restored to what it had been in the autumn, than any member of the old intimacy had thought ever likely to be again. The return of Henry Crawford, and the arrival of William Price, had much to do with it, but much was still owing to Sir Thomas's more than toleration of the neighbourly attempts at the Parsonage. His mind, now disengaged from the cares which had pressed on him at first, was at leisure to find the Grants and their young inmates really worth visiting; and though infinitely above scheming or contriving for any the most advantageous matrimonial establishment that could be among the apparent possibilities of any one most dear to him, and disdaining even as a littleness the being quick-sighted on such points, he could not avoid perceiving, in a grand and careless way, that Mr. Crawford was somewhat distinguishing his niece--nor perhaps refrain (though unconsciously) from giving a more willing assent to invitations on that account.
 
 His readiness, however, in agreeing to dine at the Parsonage, when the general invitation was at last hazarded, after many debates and many doubts as to whether it were worth while, "because Sir Thomas seemed so ill inclined, and Lady Bertram was so indolent!" proceeded from good-breeding and goodwill alone, and had nothing to do with Mr. Crawford, but as being one in an agreeable group: for it was in the course of that very visit that he first began to think that any one in the habit of such idle observations _would_ _have_ _thought_ that Mr. Crawford was the admirer of Fanny Price.
@@ -7660,14 +7625,6 @@ With so much true merit and true love, and no want of fortune and friends, the h
 
 On that event they removed to Mansfield; and the Parsonage there, which, under each of its two former owners, Fanny had never been able to approach but with some painful sensation of restraint or alarm, soon grew as dear to her heart, and as thoroughly perfect in her eyes, as everything else within the view and patronage of Mansfield Park had long been.
 
-THE END
-
-EMMA
-
-By Jane Austen
-
-VOLUME I
-
 Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.
 
 She was the youngest of the two daughters of a most affectionate, indulgent father; and had, in consequence of her sister's marriage, been mistress of his house from a very early period. Her mother had died too long ago for her to have more than an indistinct remembrance of her caresses; and her place had been supplied by an excellent woman as governess, who had fallen little short of a mother in affection.
@@ -9142,8 +9099,6 @@ She was the first to announce it to Mr. Knightley; and exclaimed quite as much a
 "He is a person I never think of from one month's end to another," said Mr. Knightley, with a degree of vexation, which made Emma immediately talk of something else, though she could not comprehend why he should be angry.
 
 To take a dislike to a young man, only because he appeared to be of a different disposition from himself, was unworthy the real liberality of mind which she was always used to acknowledge in him; for with all the high opinion of himself, which she had often laid to his charge, she had never before for a moment supposed it could make him unjust to the merit of another.
-
-VOLUME II
 
 Emma and Harriet had been walking together one morning, and, in Emma's opinion, had been talking enough of Mr. Elton for that day. She could not think that Harriet's solace or her own sins required more; and she was therefore industriously getting rid of the subject as they returned;--but it burst out again when she thought she had succeeded, and after speaking some time of what the poor must suffer in winter, and receiving no other answer than a very plaintive--"Mr. Elton is so good to the poor!" she found something else must be done.
 
@@ -10762,8 +10717,6 @@ Mr. John Knightley proved more talkative than his brother. He was to leave them 
 
 Mr. Knightley seemed to be trying not to smile; and succeeded without difficulty, upon Mrs. Elton's beginning to talk to him.
 
-VOLUME III
-
 A very little quiet reflection was enough to satisfy Emma as to the nature of her agitation on hearing this news of Frank Churchill. She was soon convinced that it was not for herself she was feeling at all apprehensive or embarrassed; it was for him. Her own attachment had really subsided into a mere nothing; it was not worth thinking of;--but if he, who had undoubtedly been always so much the most in love of the two, were to be returning with the same warmth of sentiment which he had taken away, it would be very distressing. If a separation of two months should not have cooled him, there were dangers and evils before her:--caution for him and for herself would be necessary. She did not mean to have her own affections entangled again, and it would be incumbent on her to avoid any encouragement of his.
 
 She wished she might be able to keep him from an absolute declaration. That would be so very painful a conclusion of their present acquaintance! and yet, she could not help rather anticipating something decisive. She felt as if the spring would not pass without bringing a crisis, an event, a something to alter her present composed and tranquil state.
@@ -11863,8 +11816,6 @@ He had not left her long, by no means long enough for her to have the slightest 
 "Yours ever,
 "A. W."
 
-[To Mrs. Weston.]
-
 WINDSOR-JULY. MY DEAR MADAM,
 
 "If I made myself intelligible yesterday, this letter will be expected; but expected or not, I know it will be read with candour and indulgence.--You are all goodness, and I believe there will be need of even all your goodness to allow for some parts of my past conduct.--But I have been forgiven by one who had still more to resent. My courage rises while I write. It is very difficult for the prosperous to be humble. I have already met with such success in two applications for pardon, that I may be in danger of thinking myself too sure of yours, and of those among your friends who have had any ground of offence.--You must all endeavour to comprehend the exact nature of my situation when I first arrived at Randalls; you must consider me as having a secret which was to be kept at all hazards. This was the fact. My right to place myself in a situation requiring such concealment, is another question. I shall not discuss it here. For my temptation to _think_ it a right, I refer every caviller to a brick house, sashed windows below, and casements above, in Highbury. I dared not address her openly; my difficulties in the then state of Enscombe must be too well known to require definition; and I was fortunate enough to prevail, before we parted at Weymouth, and to induce the most upright female mind in the creation to stoop in charity to a secret engagement.--Had she refused, I should have gone mad.--But you will be ready to say, what was your hope in doing this?--What did you look forward to?--To any thing, every thing--to time, chance, circumstance, slow effects, sudden bursts, perseverance and weariness, health and sickness. Every possibility of good was before me, and the first of blessings secured, in obtaining her promises of faith and correspondence. If you need farther explanation, I have the honour, my dear madam, of being your husband's son, and the advantage of inheriting a disposition to hope for good, which no inheritance of houses or lands can ever equal the value of.--See me, then, under these circumstances, arriving on my first visit to Randalls;--and here I am conscious of wrong, for that visit might have been sooner paid. You will look back and see that I did not come till Miss Fairfax was in Highbury; and as _you_ were the person slighted, you will forgive me instantly; but I must work on my father's compassion, by reminding him, that so long as I absented myself from his house, so long I lost the blessing of knowing you. My behaviour, during the very happy fortnight which I spent with you, did not, I hope, lay me open to reprehension, excepting on one point. And now I come to the principal, the only important part of my conduct while belonging to you, which excites my own anxiety, or requires very solicitous explanation. With the greatest respect, and the warmest friendship, do I mention Miss Woodhouse; my father perhaps will think I ought to add, with the deepest humiliation.--A few words which dropped from him yesterday spoke his opinion, and some censure I acknowledge myself liable to.--My behaviour to Miss Woodhouse indicated, I believe, more than it ought.--In order to assist a concealment so essential to me, I was led on to make more than an allowable use of the sort of intimacy into which we were immediately thrown.--I cannot deny that Miss Woodhouse was my ostensible object--but I am sure you will believe the declaration, that had I not been convinced of her indifference, I would not have been induced by any selfish views to go on.--Amiable and delightful as Miss Woodhouse is, she never gave me the idea of a young woman likely to be attached; and that she was perfectly free from any tendency to being attached to me, was as much my conviction as my wish.--She received my attentions with an easy, friendly, goodhumoured playfulness, which exactly suited me. We seemed to understand each other. From our relative situation, those attentions were her due, and were felt to be so.--Whether Miss Woodhouse began really to understand me before the expiration of that fortnight, I cannot say;--when I called to take leave of her, I remember that I was within a moment of confessing the truth, and I then fancied she was not without suspicion; but I have no doubt of her having since detected me, at least in some degree.--She may not have surmised the whole, but her quickness must have penetrated a part. I cannot doubt it. You will find, whenever the subject becomes freed from its present restraints, that it did not take her wholly by surprize. She frequently gave me hints of it. I remember her telling me at the ball, that I owed Mrs. Elton gratitude for her attentions to Miss Fairfax.--I hope this history of my conduct towards her will be admitted by you and my father as great extenuation of what you saw amiss. While you considered me as having sinned against Emma Woodhouse, I could deserve nothing from either. Acquit me here, and procure for me, when it is allowable, the acquittal and good wishes of that said Emma Woodhouse, whom I regard with so much brotherly affection, as to long to have her as deeply and as happily in love as myself.--Whatever strange things I said or did during that fortnight, you have now a key to. My heart was in Highbury, and my business was to get my body thither as often as might be, and with the least suspicion. If you remember any queernesses, set them all to the right account.--Of the pianoforte so much talked of, I feel it only necessary to say, that its being ordered was absolutely unknown to Miss F--, who would never have allowed me to send it, had any choice been given her.--The delicacy of her mind throughout the whole engagement, my dear madam, is much beyond my power of doing justice to. You will soon, I earnestly hope, know her thoroughly yourself.--No description can describe her. She must tell you herself what she is--yet not by word, for never was there a human creature who would so designedly suppress her own merit.--Since I began this letter, which will be longer than I foresaw, I have heard from her.--She gives a good account of her own health; but as she never complains, I dare not depend. I want to have your opinion of her looks. I know you will soon call on her; she is living in dread of the visit. Perhaps it is paid already. Let me hear from you without delay; I am impatient for a thousand particulars. Remember how few minutes I was at Randalls, and in how bewildered, how mad a state: and I am not much better yet; still insane either from happiness or misery. When I think of the kindness and favour I have met with, of her excellence and patience, and my uncle's generosity, I am mad with joy: but when I recollect all the uneasiness I occasioned her, and how little I deserve to be forgiven, I am mad with anger. If I could but see her again!--But I must not propose it yet. My uncle has been too good for me to encroach.--I must still add to this long letter. You have not heard all that you ought to hear. I could not give any connected detail yesterday; but the suddenness, and, in one light, the unseasonableness with which the affair burst out, needs explanation; for though the event of the 26th ult., as you will conclude, immediately opened to me the happiest prospects, I should not have presumed on such early measures, but from the very particular circumstances, which left me not an hour to lose. I should myself have shrunk from any thing so hasty, and she would have felt every scruple of mine with multiplied strength and refinement.--But I had no choice. The hasty engagement she had entered into with that woman--Here, my dear madam, I was obliged to leave off abruptly, to recollect and compose myself.--I have been walking over the country, and am now, I hope, rational enough to make the rest of my letter what it ought to be.--It is, in fact, a most mortifying retrospect for me. I behaved shamefully. And here I can admit, that my manners to Miss W., in being unpleasant to Miss F., were highly blameable. _She_ disapproved them, which ought to have been enough.--My plea of concealing the truth she did not think sufficient.--She was displeased; I thought unreasonably so: I thought her, on a thousand occasions, unnecessarily scrupulous and cautious: I thought her even cold. But she was always right. If I had followed her judgment, and subdued my spirits to the level of what she deemed proper, I should have escaped the greatest unhappiness I have ever known.--We quarrelled.-- Do you remember the morning spent at Donwell?--_There_ every little dissatisfaction that had occurred before came to a crisis. I was late; I met her walking home by herself, and wanted to walk with her, but she would not suffer it. She absolutely refused to allow me, which I then thought most unreasonable. Now, however, I see nothing in it but a very natural and consistent degree of discretion. While I, to blind the world to our engagement, was behaving one hour with objectionable particularity to another woman, was she to be consenting the next to a proposal which might have made every previous caution useless?--Had we been met walking together between Donwell and Highbury, the truth must have been suspected.--I was mad enough, however, to resent.--I doubted her affection. I doubted it more the next day on Box Hill; when, provoked by such conduct on my side, such shameful, insolent neglect of her, and such apparent devotion to Miss W., as it would have been impossible for any woman of sense to endure, she spoke her resentment in a form of words perfectly intelligible to me.--In short, my dear madam, it was a quarrel blameless on her side, abominable on mine; and I returned the same evening to Richmond, though I might have staid with you till the next morning, merely because I would be as angry with her as possible. Even then, I was not such a fool as not to mean to be reconciled in time; but I was the injured person, injured by her coldness, and I went away determined that she should make the first advances.--I shall always congratulate myself that you were not of the Box Hill party. Had you witnessed my behaviour there, I can hardly suppose you would ever have thought well of me again. Its effect upon her appears in the immediate resolution it produced: as soon as she found I was really gone from Randalls, she closed with the offer of that officious Mrs. Elton; the whole system of whose treatment of her, by the bye, has ever filled me with indignation and hatred. I must not quarrel with a spirit of forbearance which has been so richly extended towards myself; but, otherwise, I should loudly protest against the share of it which that woman has known.--'Jane,' indeed!--You will observe that I have not yet indulged myself in calling her by that name, even to you. Think, then, what I must have endured in hearing it bandied between the Eltons with all the vulgarity of needless repetition, and all the insolence of imaginary superiority. Have patience with me, I shall soon have done.--She closed with this offer, resolving to break with me entirely, and wrote the next day to tell me that we never were to meet again.--_She_ _felt_ _the_ _engagement_ _to_ _be_ _a_ _source_ _of_ _repentance_ _and_ _misery_ _to_ _each_: _she_ _dissolved_ _it_.--This letter reached me on the very morning of my poor aunt's death. I answered it within an hour; but from the confusion of my mind, and the multiplicity of business falling on me at once, my answer, instead of being sent with all the many other letters of that day, was locked up in my writing-desk; and I, trusting that I had written enough, though but a few lines, to satisfy her, remained without any uneasiness.--I was rather disappointed that I did not hear from her again speedily; but I made excuses for her, and was too busy, and--may I add?--too cheerful in my views to be captious.--We removed to Windsor; and two days afterwards I received a parcel from her, my own letters all returned!--and a few lines at the same time by the post, stating her extreme surprize at not having had the smallest reply to her last; and adding, that as silence on such a point could not be misconstrued, and as it must be equally desirable to both to have every subordinate arrangement concluded as soon as possible, she now sent me, by a safe conveyance, all my letters, and requested, that if I could not directly command hers, so as to send them to Highbury within a week, I would forward them after that period to her at--: in short, the full direction to Mr. Smallridge's, near Bristol, stared me in the face. I knew the name, the place, I knew all about it, and instantly saw what she had been doing. It was perfectly accordant with that resolution of character which I knew her to possess; and the secrecy she had maintained, as to any such design in her former letter, was equally descriptive of its anxious delicacy. For the world would not she have seemed to threaten me.--Imagine the shock; imagine how, till I had actually detected my own blunder, I raved at the blunders of the post.--What was to be done?--One thing only.--I must speak to my uncle. Without his sanction I could not hope to be listened to again.--I spoke; circumstances were in my favour; the late event had softened away his pride, and he was, earlier than I could have anticipated, wholly reconciled and complying; and could say at last, poor man! with a deep sigh, that he wished I might find as much happiness in the marriage state as he had done.--I felt that it would be of a different sort.--Are you disposed to pity me for what I must have suffered in opening the cause to him, for my suspense while all was at stake?--No; do not pity me till I reached Highbury, and saw how ill I had made her. Do not pity me till I saw her wan, sick looks.--I reached Highbury at the time of day when, from my knowledge of their late breakfast hour, I was certain of a good chance of finding her alone.--I was not disappointed; and at last I was not disappointed either in the object of my journey. A great deal of very reasonable, very just displeasure I had to persuade away. But it is done; we are reconciled, dearer, much dearer, than ever, and no moment's uneasiness can ever occur between us again. Now, my dear madam, I will release you; but I could not conclude before. A thousand and a thousand thanks for all the kindness you have ever shewn me, and ten thousand for the attentions your heart will dictate towards her.--If you think me in a way to be happier than I deserve, I am quite of your opinion.--Miss W. calls me the child of good fortune. I hope she is right.--In one respect, my good fortune is undoubted, that of being able to subscribe myself,
@@ -12323,12 +12274,6 @@ In this state of suspense they were befriended, not by any sudden illumination o
 The result of this distress was, that, with a much more voluntary, cheerful consent than his daughter had ever presumed to hope for at the moment, she was able to fix her wedding-day--and Mr. Elton was called on, within a month from the marriage of Mr. and Mrs. Robert Martin, to join the hands of Mr. Knightley and Miss Woodhouse.
 
 The wedding was very much like other weddings, where the parties have no taste for finery or parade; and Mrs. Elton, from the particulars detailed by her husband, thought it all extremely shabby, and very inferior to her own.--"Very little white satin, very few lace veils; a most pitiful business!--Selina would stare when she heard of it."--But, in spite of these deficiencies, the wishes, the hopes, the confidence, the predictions of the small band of true friends who witnessed the ceremony, were fully answered in the perfect happiness of the union.
-
-FINIS
-
-LADY SUSAN
-
-by Jane Austen
 
 I
 
@@ -12841,10 +12786,6 @@ CONCLUSION
 This correspondence, by a meeting between some of the parties, and a separation between the others, could not, to the great detriment of the Post Office revenue, be continued any longer. Very little assistance to the State could be derived from the epistolary intercourse of Mrs. Vernon and her niece; for the former soon perceived, by the style of Frederica's letters, that they were written under her mother's inspection! and therefore, deferring all particular enquiry till she could make it personally in London, ceased writing minutely or often. Having learnt enough, in the meanwhile, from her open-hearted brother, of what had passed between him and Lady Susan to sink the latter lower than ever in her opinion, she was proportionably more anxious to get Frederica removed from such a mother, and placed under her own care; and, though with little hope of success, was resolved to leave nothing unattempted that might offer a chance of obtaining her sister-in-law's consent to it. Her anxiety on the subject made her press for an early visit to London; and Mr. Vernon, who, as it must already have appeared, lived only to do whatever he was desired, soon found some accommodating business to call him thither. With a heart full of the matter, Mrs. Vernon waited on Lady Susan shortly after her arrival in town, and was met with such an easy and cheerful affection, as made her almost turn from her with horror. No remembrance of Reginald, no consciousness of guilt, gave one look of embarrassment; she was in excellent spirits, and seemed eager to show at once by ever possible attention to her brother and sister her sense of their kindness, and her pleasure in their society. Frederica was no more altered than Lady Susan; the same restrained manners, the same timid look in the presence of her mother as heretofore, assured her aunt of her situation being uncomfortable, and confirmed her in the plan of altering it. No unkindness, however, on the part of Lady Susan appeared. Persecution on the subject of Sir James was entirely at an end; his name merely mentioned to say that he was not in London; and indeed, in all her conversation, she was solicitous only for the welfare and improvement of her daughter, acknowledging, in terms of grateful delight, that Frederica was now growing every day more and more what a parent could desire. Mrs. Vernon, surprized and incredulous, knew not what to suspect, and, without any change in her own views, only feared greater difficulty in accomplishing them. The first hope of anything better was derived from Lady Susan's asking her whether she thought Frederica looked quite as well as she had done at Churchhill, as she must confess herself to have sometimes an anxious doubt of London's perfectly agreeing with her. Mrs. Vernon, encouraging the doubt, directly proposed her niece's returning with them into the country. Lady Susan was unable to express her sense of such kindness, yet knew not, from a variety of reasons, how to part with her daughter; and as, though her own plans were not yet wholly fixed, she trusted it would ere long be in her power to take Frederica into the country herself, concluded by declining entirely to profit by such unexampled attention. Mrs. Vernon persevered, however, in the offer of it, and though Lady Susan continued to resist, her resistance in the course of a few days seemed somewhat less formidable. The lucky alarm of an influenza decided what might not have been decided quite so soon. Lady Susan's maternal fears were then too much awakened for her to think of anything but Frederica's removal from the risk of infection; above all disorders in the world she most dreaded the influenza for her daughter's constitution!
 
 Frederica returned to Churchhill with her uncle and aunt; and three weeks afterwards, Lady Susan announced her being married to Sir James Martin. Mrs. Vernon was then convinced of what she had only suspected before, that she might have spared herself all the trouble of urging a removal which Lady Susan had doubtless resolved on from the first. Frederica's visit was nominally for six weeks, but her mother, though inviting her to return in one or two affectionate letters, was very ready to oblige the whole party by consenting to a prolongation of her stay, and in the course of two months ceased to write of her absence, and in the course of two or more to write to her at all. Frederica was therefore fixed in the family of her uncle and aunt till such time as Reginald De Courcy could be talked, flattered, and finessed into an affection for her which, allowing leisure for the conquest of his attachment to her mother, for his abjuring all future attachments, and detesting the sex, might be reasonably looked for in the course of a twelvemonth. Three months might have done it in general, but Reginald's feelings were no less lasting than lively. Whether Lady Susan was or was not happy in her second choice, I do not see how it can ever be ascertained; for who would take her assurance of it on either side of the question? The world must judge from probabilities; she had nothing against her but her husband, and her conscience. Sir James may seem to have drawn a harder lot than mere folly merited; I leave him, therefore, to all the pity that anybody can give him. For myself, I confess that I can pity only Miss Mainwaring; who, coming to town, and putting herself to an expense in clothes which impoverished her for two years, on purpose to secure him, was defrauded of her due by a woman ten years older than herself.
-
-PRIDE AND PREJUDICE
-
-By Jane Austen
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
 
@@ -16972,143 +16913,6 @@ Lady Catherine was extremely indignant on the marriage of her nephew; and as she
 
 With the Gardiners, they were always on the most intimate terms. Darcy, as well as Elizabeth, really loved them; and they were both ever sensible of the warmest gratitude towards the persons who, by bringing her into Derbyshire, had been the means of uniting them.
 
-SENSE & SENSIBILITY
-
-BY
-
-JANE AUSTEN
-
-WITH AN INTRODUCTION
-
-BY
-
-AUSTIN DOBSON
-
-ILLUSTRATED
-
-BY
-
-HUGH THOMSON
-
-LONDON: MACMILLAN AND CO., LIMITED
-
-NEW YORK: THE MACMILLAN COMPANY
-
-1902
-
-_First Edition with Hugh Thomson's Illustrations_ 1896
-
-*       *       *       *       *
-
-Transcriber's Note:
-
-The Table of Contents is not part of the original book. The illustration on page 290 is missing from the book. The Introduction ends abruptly. Seems incomplete.
-
-[Illustration: _Mr. Dashwood introduced him._--P. 219.]
-
-CONTENTS
-
-INTRODUCTION LIST OF ILLUSTRATIONS CHAPTER I CHAPTER II CHAPTER III CHAPTER IV CHAPTER V CHAPTER VI CHAPTER VII CHAPTER VIII CHAPTER IX CHAPTER X CHAPTER XI CHAPTER XII CHAPTER XIII CHAPTER XIV CHAPTER XV CHAPTER XVI CHAPTER XVII CHAPTER XVIII CHAPTER XIX CHAPTER XX CHAPTER XXI CHAPTER XXII CHAPTER XXIII CHAPTER XXIV CHAPTER XXV CHAPTER XXVI CHAPTER XXVII CHAPTER XXVIII CHAPTER XXIX CHAPTER XXX CHAPTER XXXI CHAPTER XXXII CHAPTER XXXIII CHAPTER XXXIV CHAPTER XXXV CHAPTER XXXVI CHAPTER XXXVII CHAPTER XXXVIII CHAPTER XXXIX CHAPTER XL CHAPTER XLI CHAPTER XLII CHAPTER XLIII CHAPTER XLIV CHAPTER XLV CHAPTER XLVI CHAPTER XLVII CHAPTER XLVIII CHAPTER XLIX 
-*       *       *       *       *
-
-INTRODUCTION
-
-With the title of _Sense and Sensibility_ is connected one of those minor problems which delight the cummin-splitters of criticism. In the _Cecilia_ of Madame D'Arblay--the forerunner, if not the model, of Miss Austen--is a sentence which at first sight suggests some relationship to the name of the book which, in the present series, inaugurated Miss Austen's novels. 'The whole of this unfortunate business'--says a certain didactic Dr. Lyster, talking in capitals, towards the end of volume three of _Cecilia_--'has been the result of PRIDE and PREJUDICE,' and looking to the admitted familiarity of Miss Austen with Madame D'Arblay's work, it has been concluded that Miss Austen borrowed from _Cecilia_, the title of her second novel. But here comes in the little problem to which we have referred. _Pride and Prejudice_ it is true, was written and finished before _Sense and Sensibility_--its original title for several years being _First Impressions_. Then, in 1797, the author fell to work upon an older essay in letters _a la_ Richardson, called _Elinor and Marianne_, which she re-christened _Sense and Sensibility._ This, as we know, was her first published book; and whatever may be the connection between the title of _Pride and Prejudice_ and the passage in _Cecilia_, there is an obvious connection between the title of _Pride and Prejudice_ and the _title of Sense and Sensibility_. If Miss Austen re-christened _Elinor and Marianne_ before she changed the title of _First Impressions_, as she well may have, it is extremely unlikely that the name of _Pride and Prejudice_ has anything to do with _Cecilia_ (which, besides, had been published at least twenty years before). Upon the whole, therefore, it is most likely that the passage in Madame D'Arblay is a mere coincidence; and that in _Sense and Sensibility_, as well as in the novel that succeeded it in publication, Miss Austen, after the fashion of the old morality plays, simply substituted the leading characteristics of her principal personages for their names. Indeed, in _Sense and Sensibility_ the sense of Elinor, and the sensibility (or rather _sensiblerie_) of Marianne, are markedly emphasised in the opening pages of the book But Miss Austen subsequently, and, as we think, wisely, discarded in her remaining efforts the cheap attraction of an alliterative title. _Emma_ and _Persuasion, Northanger Abbey_ and _Mansfield Park_, are names far more in consonance with the quiet tone of her easy and unobtrusive art.
-
-_Elinor and Marianne_ was originally written about 1792. After the completion--or partial completion, for it was again revised in 1811--of _First Impressions_ (subsequently _Pride and Prejudice_), Miss Austen set about recasting _Elinor and Marianne_, then composed in the form of letters; and she had no sooner accomplished this task, than she began _Northanger Abbey_. It would be interesting to know to what extent she remodelled _Sense and Sensibility_ in 1797-98, for we are told that previous to its publication in 1811 she again devoted a considerable time to its preparation for the press, and it is clear that this does not mean the correction of proofs alone, but also a preliminary revision of MS. Especially would it be interesting if we could ascertain whether any of its more finished passages, _e.g._ the admirable conversation between the Miss Dashwoods and Willoughby in chapter x., were the result of those fallow and apparently barren years at Bath and Southampton, or whether they were already part of the second version of 1797-98. But upon this matter the records are mute. A careful examination of the correspondence published by Lord Brabourne in 1884 only reveals two definite references to _Sense and Sensibility_ and these are absolutely unfruitful in suggestion. In April 1811 she speaks of having corrected two sheets of 'S and S,' which she has scarcely a hope of getting out in the following June; and in September, an extract from the diary of another member of the family indirectly discloses the fact that the book had by that time been published. This extract is a brief reference to a letter which had been received from Cassandra Austen, begging her correspondent not to mention that Aunt Jane wrote _Sense and Sensibility._ Beyond these minute items of information, and the statement--already referred to in the Introduction to _Pride and Prejudice_--that she considered herself overpaid for the labour she had bestowed upon it, absolutely nothing seems to have been preserved by her descendants respecting her first printed effort. In the absence of particulars some of her critics have fallen to speculate upon the reason which made her select it, and not _Pride and Prejudice_, for her debut; and they have, perhaps naturally, found in the fact a fresh confirmation of that traditional blindness of authors to their own best work, which is one of the commonplaces of literary history. But this is to premise that she _did_ regard it as her masterpiece, a fact which, apart from this accident of priority of issue, is, as far as we are aware, nowhere asserted. A simpler solution is probably that, of the three novels she had written or sketched by 1811, _Pride and Prejudice_ was languishing under the stigma of having been refused by one bookseller without the formality of inspection, while _Northanger Abbey_ was lying _perdu_ in another bookseller's drawer at Bath. In these circumstances it is intelligible that she should turn to _Sense and Sensibility_, when, at length--upon the occasion of a visit to her brother in London in the spring of 1811--Mr. T. Egerton of the 'Military Library,' Whitehall, dawned upon the horizon as a practicable publisher.
-
-By the time _Sense and Sensibility_ left the press, Miss Austen was again domiciled at Chawton Cottage. For those accustomed to the swarming reviews of our day, with their Babel of notices, it may seem strange that there should be no record of the effect produced, seeing that, as already stated, the book sold well enough to enable its putter-forth to hand over to its author what Mr. Gargery, in _Great Expectations_, would have described as 'a cool L150.' Surely Mr. Egerton, who had visited Miss Austen at Sloane Street, must have later conveyed to her some intelligence of the way in which her work had been welcomed by the public. But if he did, it is no longer discoverable. Mr. Austen Leigh, her first and best biographer, could find no account either of the publication or of the author's feelings thereupon. As far as it is possible to judge, the critical verdicts she obtained were mainly derived from her own relatives and intimate friends, and some of these latter--if one may trust a little anthology which she herself collected, and from which Mr. Austen Leigh prints extracts--must have been more often exasperating than sympathetic. The long chorus of intelligent approval by which she was afterwards greeted did not begin to be really audible before her death, and her 'fit audience' during her lifetime must have been emphatically 'few,' Of two criticisms which came out in the _Quarterly_ early in the century, she could only have seen one, that of 1815; the other, by Archbishop Whately, the first which treated her in earnest, did not appear until she had been three years dead. Dr. Whately deals mainly with _Mansfield Park_ and _Persuasion_; his predecessor professed to review _Emma_, though he also gives brief summaries of _Sense and Sensibility_ and _Pride and Prejudice_. Mr. Austen Leigh, we think, speaks too contemptuously of this initial notice of 1815. If, at certain points, it is half-hearted and inadequate, it is still fairly accurate in its recognition of Miss Austen's supreme merit, as contrasted with her contemporaries--to wit, her skill in investing the fortunes of ordinary characters and the narrative of common occurrences with all the sustained excitement of romance. The Reviewer points out very justly that this kind of work, 'being deprived of all that, according to Bayes, goes "to elevate and surprise," must make amends by displaying depth of knowledge and dexterity of execution.' And in these qualities, even with such living competitors of her own sex as Miss Edgeworth and Miss Brunton (whose _Self-control_ came out in the same year as _Sense and Sensibility_), he does not scruple to declare that 'Miss Austen stands almost alone.' If he omits to lay stress upon her judgment, her nice sense of fitness, her restraint, her fine irony, and the delicacy of her artistic touch, something must be allowed for the hesitations and reservations which invariably beset the critical pioneer.
-
-To contend, however, for a moment that the present volume is Miss Austen's greatest, as it was her first published, novel, would be a mere exercise in paradox. There are, who swear by _Persuasion_; there are, who prefer _Emma_ and _Mansfield Park_; there is a large contingent for _Pride and Prejudice_; and there is even a section which advocates the pre-eminence of _Northanger Abbey_. But no one, as far as we can remember, has ever put _Sense and Sensibility_ first, nor can we believe that its author did so herself. And yet it is she herself who has furnished the standard by which we judge it, and it is by comparison with _Pride and Prejudice_, in which the leading characters are also two sisters, that we assess and depress its merit. The Elinor and Marianne of _Sense and Sensibility_ are only inferior when they are contrasted with the Elizabeth and Jane of _Pride and Prejudice_; and even then, it is probably because we personally like the handsome and amiable Jane Bennet rather better than the obsolete survival of the sentimental novel represented by Marianne Dashwood. Darcy and Bingley again are much more 'likeable' (to use Lady Queensberry's word) than the colourless Edward Ferrars and the stiff-jointed Colonel Brandon. Yet it might not unfairly be contended that there is more fidelity to what Mr. Thomas Hardy has termed 'life's little ironies' in Miss Austen's disposal of the two Miss Dashwoods than there is in her disposal of the heroines of _Pride and Prejudice_. Every one does not get a Bingley, or a Darcy (with a park); but a good many sensible girls like Elinor pair off contentedly with poor creatures like Edward Ferrars, while not a few enthusiasts like Marianne decline at last upon middle-aged colonels with flannel waistcoats. George Eliot, we fancy, would have held that the fates of Elinor and Marianne were more probable than the fortunes of Jane and Eliza Bennet. That, of the remaining characters, there is certainly none to rival Mr. Bennet, or Lady Catherine de Bourgh, or the ineffable Mr. Collins, of _Pride and Prejudice_, is true; but we confess to a kindness for vulgar matchmaking Mrs. Jennings with her still-room 'parmaceti for an inward bruise' in the shape of a glass of old Constantia; and for the diluted Squire Western, Sir John Middleton, whose horror of being alone carries him to the point of rejoicing in the acquisition of _two_ to the population of London. Excellent again are Mr. Palmer and his wife; excellent, in their sordid veracity, the self-seeking figures of the Miss Steeles. But the pearls of the book must be allowed to be that egregious amateur in toothpick-cases, Mr. Robert Ferrars (with his excursus in chapter xxxvi. on life in a cottage), and the admirably-matched Mr. and Mrs. John Dashwood. Miss Austen herself has never done anything better than the inimitable and oft-quoted chapter wherein is debated between the last-named pair the momentous matter of the amount to be devoted to Mrs. Dashwood and her daughters; while the suggestion in chapters xxxiii. and xxxiv. that the owner of Norland was once within some thousands of having to sell out at a loss, deserves to be remembered with that other memorable escape of Sir Roger de Coverley's ancestor, who was only not killed in the civil wars because 'he was sent out of the field upon a private message, the day before the battle of Worcester.'
-
-Of local colouring there is as little in _Sense and Sensibility_ as in _Pride and Prejudice_. It is not unlikely that some memories of Steventon may survive in Norland; and it may be noted that there is actually a Barton Place to the north of Exeter, not far from Lord Iddesleigh's well-known seat of Upton Pynes. It is scarcely possible, also, not to believe that, in Mrs. Jennings's description of Delaford--'a nice place, I can tell you; exactly what I call a nice old-fashioned place, full of comforts and conveniences; quite shut in with great garden walls that are covered with the best fruit-trees in the country; and such a mulberry tree in one corner!'--Miss Austen had in mind some real Hampshire or Devonshire country house. In any case, it comes nearer a picture than what we usually get from her pen. 'Then there is a dovecote, some delightful stew-ponds, and a very pretty canal; and everything, in short, that one could wish for; and, moreover, it is close to the church, and only a quarter of a mile from the turnpike-road, so 'tis never dull, for if you only go and sit up in an old yew arbour behind the house, you may see all the carriages that pass along.' The last lines suggest those quaint 'gazebos' and alcoves, which, in the coaching days, were so often to be found perched at the roadside, where one might sit and watch the Dover or Canterbury stage go whirling by. Of genteel accomplishments there is a touch In the 'landscape in coloured silks' which Charlotte Palmer had worked at school (chap, xxvi.); and of old remedies for the lost art of swooning, in the 'lavender drops' of chapter xxix. The mention of a dance as a 'little hop' in chapter ix. reads like a premature instance of middle Victorian slang. But nothing is new--even in a novel--and 'hop,' in this sense, is at least as old as _Joseph Andrews_.
-
-*       *       *       *       *
-
-LIST OF ILLUSTRATIONS
-
-Mr. Dashwood introduced him             _Frontispiece_
-
-His son's son, a child of four years old
-
-"I cannot imagine how they will spend half of it"
-
-So shy before company
-
-They sang together
-
-He cut off a long lock of her hair
-
-"I have found you out in spite of all your tricks"
-
-Apparently In violent affliction
-
-Begging her to stop
-
-Came to take a survey of the guest
-
-"I declare they are quite charming"
-
-Mischievous tricks
-
-Drinking to her best affections
-
-Amiably bashful
-
-"I can answer for it," said Mrs. Jennings
-
-At that moment she first perceived him
-
-"How fond he was of it!"
-
-Offered him one of Folly's puppies
-
-A very smart beau
-
-Introduced to Mrs. Jennings
-
-Mrs. Jennings assured him directly that she should not stand upon ceremony
-
-Mrs. Ferrars
-
-Drawing him a little aside
-
-In a whisper
-
-"You have heard, I suppose"
-
-Talking over the business
-
-"She put in the feather last night"
-
-Listening at the door
-
-Both gained considerable amusement
-
-"Of one thing I may assure you"
-
-Showing her child to the housekeeper
-
-The gardener's lamentations
-
-Opened a window-shutter
-
-"I entreat you to stay"
-
-"I was formally dismissed"
-
-"I have entered many a shop to avoid your sight"
-
-"And see how the children go on"
-
-"I suppose you know, ma'am, that Mr. Ferrars is married"
-
-It _was_ Edward
-
-"Everything in such respectable condition"
-
-*       *       *       *       *
-
 The family of Dashwood had long been settled in Sussex. Their estate was large, and their residence was at Norland Park, in the centre of their property, where, for many generations, they had lived in so respectable a manner as to engage the general good opinion of their surrounding acquaintance. The late owner of this estate was a single man, who lived to a very advanced age, and who for many years of his life, had a constant companion and housekeeper in his sister. But her death, which happened ten years before his own, produced a great alteration in his home; for to supply her loss, he invited and received into his house the family of his nephew Mr. Henry Dashwood, the legal inheritor of the Norland estate, and the person to whom he intended to bequeath it. In the society of his nephew and niece, and their children, the old Gentleman's days were comfortably spent. His attachment to them all increased. The constant attention of Mr. and Mrs. Henry Dashwood to his wishes, which proceeded not merely from interest, but from goodness of heart, gave him every degree of solid comfort which his age could receive; and the cheerfulness of the children added a relish to his existence.
 
 By a former marriage, Mr. Henry Dashwood had one son: by his present lady, three daughters. The son, a steady respectable young man, was amply provided for by the fortune of his mother, which had been large, and half of which devolved on him on his coming of age. By his own marriage, likewise, which happened soon afterwards, he added to his wealth. To him therefore the succession to the Norland estate was not so really important as to his sisters; for their fortune, independent of what might arise to them from their father's inheriting that property, could be but small. Their mother had nothing, and their father only seven thousand pounds in his own disposal; for the remaining moiety of his first wife's fortune was also secured to her child, and he had only a life-interest in it.
@@ -17120,8 +16924,6 @@ Mr. Dashwood's disappointment was, at first, severe; but his temper was cheerful
 His son was sent for as soon as his danger was known, and to him Mr. Dashwood recommended, with all the strength and urgency which illness could command, the interest of his mother-in-law and sisters.
 
 Mr. John Dashwood had not the strong feelings of the rest of the family; but he was affected by a recommendation of such a nature at such a time, and he promised to do every thing in his power to make them comfortable. His father was rendered easy by such an assurance, and Mr. John Dashwood had then leisure to consider how much there might prudently be in his power to do for them.
-
-[Illustration: _His son's son, a child of four years old._]
 
 He was not an ill-disposed young man, unless to be rather cold hearted and rather selfish is to be ill-disposed: but he was, in general, well respected; for he conducted himself with propriety in the discharge of his ordinary duties. Had he married a more amiable woman, he might have been made still more respectable than he was: he might even have been made amiable himself; for he was very young when he married, and very fond of his wife. But Mrs. John Dashwood was a strong caricature of himself; more narrow-minded and selfish.
 
@@ -17198,8 +17000,6 @@ His wife hesitated a little, however, in giving her consent to this plan.
 This argument was irresistible. It gave to his intentions whatever of decision was wanting before; and he finally resolved, that it would be absolutely unnecessary, if not highly indecorous, to do more for the widow and children of his father, than such kind of neighbourly acts as his own wife pointed out.
 
 Mrs. Dashwood remained at Norland several months; not from any disinclination to move when the sight of every well known spot ceased to raise the violent emotion which it produced for a while; for when her spirits began to revive, and her mind became capable of some other exertion than that of heightening its affliction by melancholy remembrances, she was impatient to be gone, and indefatigable in her inquiries for a suitable dwelling in the neighbourhood of Norland; for to remove far from that beloved spot was impossible. But she could hear of no situation that at once answered her notions of comfort and ease, and suited the prudence of her eldest daughter, whose steadier judgment rejected several houses as too large for their income, which her mother would have approved.
-
-[Illustration: "_I cannot imagine how they will spend half of it._"]
 
 Mrs. Dashwood had been informed by her husband of the solemn promise on the part of his son in their favour, which gave comfort to his last earthly reflections. She doubted the sincerity of this assurance no more than he had doubted it himself, and she thought of it for her daughters' sake with satisfaction, though as for herself she was persuaded that a much smaller provision than 7000L would support her in affluence. For their brother's sake, too, for the sake of his own heart, she rejoiced; and she reproached herself for being unjust to his merit before, in believing him incapable of generosity. His attentive behaviour to herself and his sisters convinced her that their welfare was dear to him, and, for a long time, she firmly relied on the liberality of his intentions.
 
@@ -17312,8 +17112,6 @@ In the mean time, till all these alterations could be made from the savings of a
 In such employments as these they were interrupted soon after breakfast the next day by the entrance of their landlord, who called to welcome them to Barton, and to offer them every accommodation from his own house and garden in which theirs might at present be deficient. Sir John Middleton was a good looking man about forty. He had formerly visited at Stanhill, but it was too long for his young cousins to remember him. His countenance was thoroughly good-humoured; and his manners were as friendly as the style of his letter. Their arrival seemed to afford him real satisfaction, and their comfort to be an object of real solicitude to him. He said much of his earnest desire of their living in the most sociable terms with his family, and pressed them so cordially to dine at Barton Park every day till they were better settled at home, that, though his entreaties were carried to a point of perseverance beyond civility, they could not give offence. His kindness was not confined to words; for within an hour after he left them, a large basket full of garden stuff and fruit arrived from the park, which was followed before the end of the day by a present of game. He insisted, moreover, on conveying all their letters to and from the post for them, and would not be denied the satisfaction of sending them his newspaper every day.
 
 Lady Middleton had sent a very civil message by him, denoting her intention of waiting on Mrs. Dashwood as soon as she could be assured that her visit would be no inconvenience; and as this message was answered by an invitation equally polite, her ladyship was introduced to them the next day.
-
-[Illustration: _So shy before company._]
 
 They were, of course, very anxious to see a person on whom so much of their comfort at Barton must depend; and the elegance of her appearance was favourable to their wishes. Lady Middleton was not more than six or seven and twenty; her face was handsome, her figure tall and striking, and her address graceful. Her manners had all the elegance which her husband's wanted. But they would have been improved by some share of his frankness and warmth; and her visit was long enough to detract something from their first admiration, by showing that, though perfectly well-bred, she was reserved, cold, and had nothing to say for herself beyond the most common-place inquiry or remark.
 
@@ -17459,8 +17257,6 @@ In Mrs. Dashwood's estimation he was as faultless as in Marianne's; and Elinor s
 
 Marianne began now to perceive that the desperation which had seized her at sixteen and a half, of ever seeing a man who could satisfy her ideas of perfection, had been rash and unjustifiable. Willoughby was all that her fancy had delineated in that unhappy hour and in every brighter period, as capable of attaching her; and his behaviour declared his wishes to be in that respect as earnest, as his abilities were strong.
 
-[Illustration: _They sang together._]
-
 Her mother too, in whose mind not one speculative thought of their marriage had been raised, by his prospect of riches, was led before the end of a week to hope and expect it; and secretly to congratulate herself on having gained two such sons-in-law as Edward and Willoughby.
 
 Colonel Brandon's partiality for Marianne, which had so early been discovered by his friends, now first became perceptible to Elinor, when it ceased to be noticed by them. Their attention and wit were drawn off to his more fortunate rival; and the raillery which the other had incurred before any partiality arose, was removed when his feelings began really to call for the ridicule so justly annexed to sensibility. Elinor was obliged, though unwillingly, to believe that the sentiments which Mrs. Jennings had assigned him for her own satisfaction, were now actually excited by her sister; and that however a general resemblance of disposition between the parties might forward the affection of Mr. Willoughby, an equally striking opposition of character was no hindrance to the regard of Colonel Brandon. She saw it with concern; for what could a silent man of five and thirty hope, when opposed to a very lively one of five and twenty? and as she could not even wish him successful, she heartily wished him indifferent. She liked him--in spite of his gravity and reserve, she beheld in him an object of interest. His manners, though serious, were mild; and his reserve appeared rather the result of some oppression of spirits than of any natural gloominess of temper. Sir John had dropped hints of past injuries and disappointments, which justified her belief of his being an unfortunate man, and she regarded him with respect and compassion.
@@ -17562,8 +17358,6 @@ For such particulars, stated on such authority, Elinor could not withhold her cr
 Margaret's sagacity was not always displayed in a way so satisfactory to her sister. When Mrs. Jennings attacked her one evening at the park, to give the name of the young man who was Elinor's particular favourite, which had been long a matter of great curiosity to her, Margaret answered by looking at her sister, and saying, "I must not tell, may I, Elinor?"
 
 This of course made every body laugh; and Elinor tried to laugh too. But the effort was painful. She was convinced that Margaret had fixed on a person whose name she could not bear with composure to become a standing joke with Mrs. Jennings.
-
-[Illustration: _He cut off a long lock of her hair._]
 
 Marianne felt for her most sincerely; but she did more harm than good to the cause, by turning very red and saying in an angry manner to Margaret--
 
@@ -17729,8 +17523,6 @@ As soon as they left the dining-room, Elinor enquired of her about it; and great
 
 "Yes, Marianne, but I would not go while Mrs. Smith was there, and with no other companion than Mr. Willoughby."
 
-[Illustration: "_I have found you out in spite of all your tricks._"]
-
 "Mr. Willoughby however is the only person who can have a right to show that house; and as he went in an open carriage, it was impossible to have any other companion. I never spent a pleasanter morning in my life."
 
 "I am afraid," replied Elinor, "that the pleasantness of an employment does not always evince its propriety."
@@ -17806,8 +17598,6 @@ On their return from the park they found Willoughby's curricle and servant in wa
 "To London!--and are you going this morning?"
 
 "Almost this moment."
-
-[Illustration: _Apparently in violent affliction._]
 
 "This is very unfortunate. But Mrs. Smith must be obliged, and her business will not detain you from us long I hope."
 
@@ -17926,8 +17716,6 @@ Amongst the objects in the scene, they soon discovered an animated one; it was a
 "He has, he has," cried Marianne, "I am sure he has. His air, his coat, his horse. I knew how soon he would come."
 
 She walked eagerly on as she spoke; and Elinor, to screen Marianne from particularity, as she felt almost certain of its not being Willoughby, quickened her pace and kept up with her. They were soon within thirty yards of the gentleman. Marianne looked again; her heart sunk within her; and abruptly turning round, she was hurrying back, when the voices of both her sisters were raised to detain her; a third, almost as well known as Willoughby's, joined them in begging her to stop, and she turned round with surprise to see and welcome Edward Ferrars.
-
-[Illustration: _Begging her to stop._]
 
 He was the only person in the world who could at that moment be forgiven for not being Willoughby; the only one who could have gained a smile from her; but she dispersed her tears to smile on _him_, and in her sister's happiness forgot for a time her own disappointment.
 
@@ -18113,8 +17901,6 @@ Mrs. Jennings enforced the necessity. "And who knows but you may raise a dance,"
 
 "A dance!" cried Marianne. "Impossible! Who is to dance?"
 
-[Illustration: _Came to take a survey of the guest._]
-
 "Who? why yourselves, and the Careys, and Whitakers to be sure. What! you thought nobody could dance because a certain person that shall be nameless is gone!"
 
 "I wish with all my soul," cried Sir John, "that Willoughby were among us again."
@@ -18206,8 +17992,6 @@ Lady Middleton could no longer endure such a conversation, and therefore exerted
 "Here comes Marianne," cried Sir John. "Now, Palmer, you shall see a monstrous pretty girl."
 
 He immediately went into the passage, opened the front door, and ushered her in himself. Mrs. Jennings asked her, as soon as she appeared, if she had not been to Allenham; and Mrs. Palmer laughed so heartily at the question, as to show she understood it. Mr. Palmer looked up on her entering the room, stared at her some minutes, and then returned to his newspaper. Mrs. Palmer's eye was now caught by the drawings which hung round the room. She got up to examine them.
-
-[Illustration: "_I declare they are quite charming_."]
 
 "Oh! dear, how beautiful these are! Well! how delightful! Do but look, mama, how sweet! I declare they are quite charming; I could look at them for ever." And then sitting down again, she very soon forgot that there were any such things in the room.
 
@@ -18367,8 +18151,6 @@ When their promised visit to the Park and consequent introduction to these young
 
 And soon afterwards, on the second boy's violently pinching one of the same lady's fingers, she fondly observed, "How playful William is!"
 
-[Illustration: _Mischievous tricks._]
-
 "And here is my sweet little Annamaria," she added, tenderly caressing a little girl of three years old, who had not made a noise for the last two minutes; "And she is always so gentle and quiet--Never was there such a quiet little thing!"
 
 But unfortunately in bestowing these embraces, a pin in her ladyship's head dress slightly scratching the child's neck, produced from this pattern of gentleness such violent screams, as could hardly be outdone by any creature professedly noisy. The mother's consternation was excessive; but it could not surpass the alarm of the Miss Steeles, and every thing was done by all three, in so critical an emergency, which affection could suggest as likely to assuage the agonies of the little sufferer. She was seated in her mother's lap, covered with kisses, her wound bathed with lavender-water, by one of the Miss Steeles, who was on her knees to attend her, and her mouth stuffed with sugar plums by the other. With such a reward for her tears, the child was too wise to cease crying. She still screamed and sobbed lustily, kicked her two brothers for offering to touch her, and all their united soothings were ineffectual till Lady Middleton luckily remembering that in a scene of similar distress last week, some apricot marmalade had been successfully applied for a bruised temple, the same remedy was eagerly proposed for this unfortunate scratch, and a slight intermission of screams in the young lady on hearing it, gave them reason to hope that it would not be rejected. She was carried out of the room therefore in her mother's arms, in quest of this medicine, and as the two boys chose to follow, though earnestly entreated by their mother to stay behind, the four young ladies were left in a quietness which the room had not known for many hours.
@@ -18429,8 +18211,6 @@ The Miss Steeles, as she expected, had now all the benefit of these jokes, and i
 
 "His name is Ferrars," said he, in a very audible whisper; "but pray do not tell it, for it's a great secret."
 
-[Illustration: _Drinking to her best affections._]
-
 "Ferrars!" repeated Miss Steele; "Mr. Ferrars is the happy man, is he? What! your sister-in-law's brother, Miss Dashwood? a very agreeable young man to be sure; I know him very well."
 
 "How can you say so, Anne?" cried Lucy, who generally made an amendment to all her sister's assertions. "Though we have seen him once or twice at my uncle's, it is rather too much to pretend to know him very well."
@@ -18468,8 +18248,6 @@ She looked down as she said this, amiably bashful, with only one side glance at 
 What felt Elinor at that moment? Astonishment, that would have been as painful as it was strong, had not an immediate disbelief of the assertion attended it. She turned towards Lucy in silent amazement, unable to divine the reason or object of such a declaration; and though her complexion varied, she stood firm in incredulity, and felt in no danger of an hysterical fit, or a swoon.
 
 "You may well be surprised," continued Lucy; "for to be sure you could have had no idea of it before; for I dare say he never dropped the smallest hint of it to you or any of your family; because it was always meant to be a great secret, and I am sure has been faithfully kept so by me to this hour. Not a soul of all my relations know of it but Anne, and I never should have mentioned it to you, if I had not felt the greatest dependence in the world upon your secrecy; and I really thought my behaviour in asking so many questions about Mrs. Ferrars must seem so odd, that it ought to be explained. And I do not think Mr. Ferrars can be displeased, when he knows I have trusted you, because I know he has the highest opinion in the world of all your family, and looks upon yourself and the other Miss Dashwoods quite as his own sisters."--She paused.
-
-[Illustration: _Amiably bashful._]
 
 Elinor for a few moments remained silent. Her astonishment at what she heard was at first too great for words; but at length forcing herself to speak, and to speak cautiously, she said, with calmness of manner, which tolerably well concealed her surprise and solicitude--"May I ask if your engagement is of long standing?"
 
@@ -18638,8 +18416,6 @@ Lucy looked at Elinor again, and was silent.
 "No sister," cried Lucy, "you are mistaken there, our favourite beaux are _not_ great coxcombs."
 
 "I can answer for it that Miss Dashwood's is not," said Mrs. Jennings, laughing heartily; "for he is one of the modestest, prettiest behaved young men I ever saw; but as for Lucy, she is such a sly little creature, there is no finding out who _she_ likes."
-
-[Illustration: "_I can answer for it," said Mrs. Jennings._]
 
 "Oh," cried Miss Steele, looking significantly round at them, "I dare say Lucy's beau is quite as modest and pretty behaved as Miss Dashwood's."
 
@@ -18894,8 +18670,6 @@ They had not remained in this manner long, before Elinor perceived Willoughby, s
 "Pray, pray be composed," cried Elinor, "and do not betray what you feel to every body present. Perhaps he has not observed you yet."
 
 This however was more than she could believe herself; and to be composed at such a moment was not only beyond the reach of Marianne, it was beyond her wish. She sat in an agony of impatience which affected every feature.
-
-[Illustration: _At that moment she first perceived him._]
 
 At last he turned round again, and regarded them both; she started up, and pronouncing his name in a tone of affection, held out her hand to him. He approached, and addressing himself rather to Elinor than Marianne, as if wishing to avoid her eye, and determined not to observe her attitude, inquired in a hurried manner after Mrs. Dashwood, and asked how long they had been in town. Elinor was robbed of all presence of mind by such an address, and was unable to say a word. But the feelings of her sister were instantly expressed. Her face was crimsoned over, and she exclaimed, in a voice of the greatest emotion, "Good God! Willoughby, what is the meaning of this? Have you not received my letters? Will you not shake hands with me?"
 
@@ -19189,8 +18963,6 @@ Mrs. Jennings, though regretting that she had not been five minutes earlier, was
 
 Colonel Brandon came in while the party were at tea, and by his manner of looking round the room for Marianne, Elinor immediately fancied that he neither expected nor wished to see her there, and, in short, that he was already aware of what occasioned her absence. Mrs. Jennings was not struck by the same thought; for soon after his entrance, she walked across the room to the tea-table where Elinor presided, and whispered, "The Colonel looks as grave as ever you see. He knows nothing of it; do tell him, my dear."
 
-[Illustration: "_How fond he was of it!_"]
-
 He shortly afterwards drew a chair close to her's, and, with a look which perfectly assured her of his good information, inquired after her sister.
 
 "Marianne is not well," said she. "She has been indisposed all day, and we have persuaded her to go to bed."
@@ -19325,8 +19097,6 @@ Mrs. Palmer, in her way, was equally angry. "She was determined to drop his acqu
 
 The rest of Mrs. Palmer's sympathy was shown in procuring all the particulars in her power of the approaching marriage, and communicating them to Elinor. She could soon tell at what coachmaker's the new carriage was building, by what painter Mr. Willoughby's portrait was drawn, and at what warehouse Miss Grey's clothes might be seen.
 
-[Illustration: _Offered him one of Folly's puppies._]
-
 The calm and polite unconcern of Lady Middleton on the occasion was a happy relief to Elinor's spirits, oppressed as they often were by the clamorous kindness of the others. It was a great comfort to her to be sure of exciting no interest in _one_ person at least among their circle of friends: a great comfort to know that there was _one_ who would meet her without feeling any curiosity after particulars, or any anxiety for her sister's health.
 
 Every qualification is raised at times, by the circumstances of the moment, to more than its real value; and she was sometimes worried down by officious condolence to rate good-breeding as more indispensable to comfort than good-nature.
@@ -19375,8 +19145,6 @@ Elinor would not humour her by farther opposition.
 
 "Long a time, indeed!" interposed Mrs. Jennings. "Why, their visit is but just begun!"
 
-[Illustration: _A very smart beau._]
-
 Lucy was silenced.
 
 "I am sorry we cannot see your sister, Miss Dashwood," said Miss Steele. "I am sorry she is not well--" for Marianne had left the room on their arrival.
@@ -19403,8 +19171,6 @@ At last the affair was decided. The ivory, the gold, and the pearls, all receive
 
 Elinor lost no time in bringing her business forward, was on the point of concluding it, when another gentleman presented himself at her side. She turned her eyes towards his face, and found him with some surprise to be her brother.
 
-[Illustration: _Introduced to Mrs. Jennings._]
-
 Their affection and pleasure in meeting was just enough to make a very creditable appearance in Mr. Gray's shop. John Dashwood was really far from being sorry to see his sisters again; it rather gave them satisfaction; and his inquiries after their mother were respectful and attentive.
 
 Elinor found that he and Fanny had been in town two days.
@@ -19418,8 +19184,6 @@ Elinor found that he and Fanny had been in town two days.
 Elinor did feel a little ashamed of her brother; and was not sorry to be spared the necessity of answering him, by the arrival of Mrs. Jennings's servant, who came to tell her that his mistress waited for them at the door.
 
 Mr. Dashwood attended them down stairs, was introduced to Mrs. Jennings at the door of her carriage, and repeating his hope of being able to call on them the next day, took leave.
-
-[Illustration: _Mrs. Jennings assured him directly that she should not stand upon ceremony._]
 
 His visit was duly paid. He came with a pretence at an apology from their sister-in-law, for not coming too; "but she was so much engaged with her mother, that really she had no leisure for going any where." Mrs. Jennings, however, assured him directly, that she should not stand upon ceremony, for they were all cousins, or something like it, and she should certainly wait on Mrs. John Dashwood very soon, and bring her sisters to see her. His manners to _them_, though calm, were perfectly kind; to Mrs. Jennings, most attentively civil; and on Colonel Brandon's coming in soon after himself, he eyed him with a curiosity which seemed to say, that he only wanted to know him to be rich, to be equally civil to _him._
 
@@ -19569,8 +19333,6 @@ Marianne could not bear this. She was already greatly displeased with Mrs. Ferra
 
 And so saying, she took the screens out of her sister-in-law's hands, to admire them herself as they ought to be admired.
 
-[Illustration: _Mrs. Ferrars._]
-
 Mrs. Ferrars looked exceedingly angry, and drawing herself up more stiffly than ever, pronounced in retort this bitter philippic, "Miss Morton is Lord Morton's daughter."
 
 Fanny looked very angry too, and her husband was all in a fright at his sister's audacity. Elinor was much more hurt by Marianne's warmth than she had been by what produced it; but Colonel Brandon's eyes, as they were fixed on Marianne, declared that he noticed only what was amiable in it, the affectionate heart which could not bear to see a sister slighted in the smallest point.
@@ -19679,8 +19441,6 @@ Marianne looked at her steadily, and said, "You know, Elinor, that this is a kin
 
 She then left the room; and Elinor dared not follow her to say more, for bound as she was by her promise of secrecy to Lucy, she could give no information that would convince Marianne; and painful as the consequences of her still continuing in an error might be, she was obliged to submit to it. All that she could hope, was that Edward would not often expose her or himself to the distress of hearing Marianne's mistaken warmth, nor to the repetition of any other part of the pain that had attended their recent meeting--and this she had every reason to expect.
 
-[Illustration: _Drawing him a little aside._]
-
 Within a few days after this meeting, the newspapers announced to the world, that the lady of Thomas Palmer, Esq. was safely delivered of a son and heir; a very interesting and satisfactory paragraph, at least to all those intimate connections who knew it before.
 
 This event, highly important to Mrs. Jennings's happiness, produced a temporary alteration in the disposal of her time, and influenced, in a like degree, the engagements of her young friends; for as she wished to be as much as possible with Charlotte, she went thither every morning as soon as she was dressed, and did not return till late in the evening; and the Miss Dashwoods, at the particular request of the Middletons, spent the whole of every day, in Conduit Street. For their own comfort they would much rather have remained, at least all the morning, in Mrs. Jennings's house; but it was not a thing to be urged against the wishes of everybody. Their hours were therefore made over to Lady Middleton and the two Miss Steeles, by whom their company, in fact was as little valued, as it was professedly sought.
@@ -19749,8 +19509,6 @@ About the third or fourth morning after their being thus resettled in Berkeley S
 
 "What! is Fanny ill?"
 
-[Illustration: _In a whisper._]
-
 "That is exactly what I said, my dear. 'Lord!' says I, 'is Mrs. Dashwood ill?' So then it all came out; and the long and the short of the matter, by all I can learn, seems to be this. Mr. Edward Ferrars, the very young man I used to joke with you about (but however, as it turns out, I am monstrous glad there was never any thing in it), Mr. Edward Ferrars, it seems, has been engaged above this twelvemonth to my cousin Lucy! There's for you, my dear! And not a creature knowing a syllable of the matter, except Nancy! Could you have believed such a thing possible? There is no great wonder in their liking one another; but that matters should be brought so forward between them, and nobody suspect it! _That_ is strange! I never happened to see them together, or I am sure I should have found it out directly. Well, and so this was kept a great secret, for fear of Mrs. Ferrars, and neither she nor your brother or sister suspected a word of the matter: till this very morning, poor Nancy, who, you know, is a well-meaning creature, but no conjurer, popt it all out. 'Lord!' thinks she to herself, 'they are all so fond of Lucy, to be sure they will make no difficulty about it;' and so, away she went to your sister, who was sitting all alone at her carpet-work, little suspecting what was to come--for she had just been saying to your brother, only five minutes before, that she thought to make a match between Edward and some Lord's daughter or other, I forget who. So you may think what a blow it was to all her vanity and pride. She fell into violent hysterics immediately, with such screams as reached your brother's ears, as he was sitting in his own dressing-room down stairs, thinking about writing a letter to his steward in the country. So up he flew directly, and a terrible scene took place, for Lucy was come to them by that time, little dreaming what was going on. Poor soul! I pity _her._ And I must say, I think she was used very hardly; for your sister scolded like any fury, and soon drove her into a fainting fit. Nancy, she fell upon her knees, and cried bitterly; and your brother, he walked about the room, and said he did not know what to do. Mrs. Dashwood declared they should not stay a minute longer in the house, and your brother was forced to go down upon _his_ knees too, to persuade her to let them stay till they had packed up their clothes. _Then_ she fell into hysterics again, and he was so frightened that he would send for Mr. Donavan, and Mr. Donavan found the house in all this uproar. The carriage was at the door ready to take my poor cousins away, and they were just stepping in as he came off; poor Lucy in such a condition, he says, she could hardly walk; and Nancy, she was almost as bad. I declare, I have no patience with your sister; and I hope, with all my heart, it will be a match in spite of her. Lord! what a taking poor Mr. Edward will be in when he hears of it! To have his love used so scornfully! for they say he is monstrous fond of her, as well he may. I should not wonder, if he was to be in the greatest passion!--and Mr. Donavan thinks just the same. He and I had a great deal of talk about it; and the best of all is, that he is gone back again to Harley Street, that he may be within call when Mrs. Ferrars is told of it, for she was sent for as soon as ever my cousins left the house, for your sister was sure _she_ would be in hysterics too; and so she may, for what I care. I have no pity for either of them. I have no notion of people's making such a to-do about money and greatness. There is no reason on earth why Mr. Edward and Lucy should not marry; for I am sure Mrs. Ferrars may afford to do very well by her son, and though Lucy has next to nothing herself, she knows better than any body how to make the most of every thing; I dare say, if Mrs. Ferrars would only allow him five hundred a-year, she would make as good an appearance with it as any body else would with eight. Lord! how snug they might live in such another cottage as yours--or a little bigger--with two maids, and two men; and I believe I could help them to a housemaid, for my Betty has a sister out of place, that would fit them exactly."
 
 Here Mrs. Jennings ceased, and as Elinor had had time enough to collect her thoughts, she was able to give such an answer, and make such observations, as the subject might naturally be supposed to produce. Happy to find that she was not suspected of any extraordinary interest in it; that Mrs. Jennings (as she had of late often hoped might be the case) had ceased to imagine her at all attached to Edward; and happy above all the rest, in the absence of Marianne, she felt very well able to speak of the affair without embarrassment, and to give her judgment, as she believed, with impartiality on the conduct of every one concerned in it.
@@ -19811,8 +19569,6 @@ The next morning brought a farther trial of it, in a visit from their brother, w
 
 They all looked their assent; it seemed too awful a moment for speech.
 
-[Illustration: "_You have heard, I suppose._"]
-
 "Your sister," he continued, "has suffered dreadfully. Mrs. Ferrars too--in short it has been a scene of such complicated distress--but I will hope that the storm may be weathered without our being any of us quite overcome. Poor Fanny! she was in hysterics all yesterday. But I would not alarm you too much. Donavan says there is nothing materially to be apprehended; her constitution is a good one, and her resolution equal to any thing. She has borne it all, with the fortitude of an angel! She says she never shall think well of anybody again; and one cannot wonder at it, after being so deceived!--meeting with such ingratitude, where so much kindness had been shown, so much confidence had been placed! It was quite out of the benevolence of her heart, that she had asked these young women to her house; merely because she thought they deserved some attention, were harmless, well-behaved girls, and would be pleasant companions; for otherwise we both wished very much to have invited you and Marianne to be with us, while your kind friend there, was attending her daughter. And now to be so rewarded! 'I wish, with all my heart,' says poor Fanny in her affectionate way, 'that we had asked your sisters instead of them.'"
 
 Here he stopped to be thanked; which being done, he went on.
@@ -19848,8 +19604,6 @@ Marianne sighed out her similar apprehension; and Elinor's heart wrung for the f
 Elinor's heart thanked her for such kindness towards Edward, though she could not forbear smiling at the form of it.
 
 "If he would only have done as well by himself," said John Dashwood, "as all his friends were disposed to do by him, he might now have been in his proper situation, and would have wanted for nothing. But as it is, it must be out of anybody's power to assist him. And there is one thing more preparing against him, which must be worse than all--his mother has determined, with a very natural kind of spirit, to settle _that_ estate upon Robert immediately, which might have been Edward's, on proper conditions. I left her this morning with her lawyer, talking over the business."
-
-[Illustration: _Talking over the business._]
 
 "Well!" said Mrs. Jennings, "that is _her_ revenge. Everybody has a way of their own. But I don't think mine would be, to make one son independent, because another had plagued me."
 
@@ -19891,8 +19645,6 @@ She had wandered away to a subject on which Elinor had nothing to say, and there
 
 "I never heard any thing of the kind hinted at before, I assure you," said Elinor.
 
-[Illustration: "_She put in the feather last night._"]
-
 "Oh, did not you? But it _was_ said, I know, very well, and by more than one; for Miss Godby told Miss Sparks, that nobody in their senses could expect Mr. Ferrars to give up a woman like Miss Morton, with thirty thousand pounds to her fortune, for Lucy Steele that had nothing at all; and I had it from Miss Sparks myself. And besides that, my cousin Richard said himself, that when it came to the point he was afraid Mr. Ferrars would be off; and when Edward did not come near us for three days, I could not tell what to think myself; and I believe in my heart Lucy gave it up all for lost; for we came away from your brother's Wednesday, and we saw nothing of him not all Thursday, Friday, and Saturday, and did not know what was become of him. Once Lucy thought to write to him, but then her spirits rose against that. However this morning he came just as we came home from church; and then it all came out, how he had been sent for Wednesday to Harley Street, and been talked to by his mother and all of them, and how he had declared before them all that he loved nobody but Lucy, and nobody but Lucy would he have. And how he had been so worried by what passed, that as soon as he had went away from his mother's house, he had got upon his horse, and rid into the country, some where or other; and how he had stayed about at an inn all Thursday and Friday, on purpose to get the better of it. And after thinking it all over and over again, he said, it seemed to him as if, now he had no fortune, and no nothing at all, it would be quite unkind to keep her on to the engagement, because it must be for her loss, for he had nothing but two thousand pounds, and no hope of any thing else; and if he was to go into orders, as he had some thoughts, he could get nothing but a curacy, and how was they to live upon that?--He could not bear to think of her doing no better, and so he begged, if she had the least mind for it, to put an end to the matter directly, and leave him shift for himself. I heard him say all this as plain as could possibly be. And it was entirely for _her_ sake, and upon _her_ account, that he said a word about being off, and not upon his own. I will take my oath he never dropt a syllable of being tired of her, or of wishing to marry Miss Morton, or any thing like it. But, to be sure, Lucy would not give ear to such kind of talking; so she told him directly (with a great deal about sweet and love, you know, and all that--Oh, la! one can't repeat such kind of things you know)--she told him directly, she had not the least mind in the world to be off, for she could live with him upon a trifle, and how little so ever he might have, she should be very glad to have it all, you know, or something of the kind. So then he was monstrous happy, and talked on some time about what they should do, and they agreed he should take orders directly, and they must wait to be married till he got a living. And just then I could not hear any more, for my cousin called from below to tell me Mrs. Richardson was come in her coach, and would take one of us to Kensington Gardens; so I was forced to go into the room and interrupt them, to ask Lucy if she would like to go, but she did not care to leave Edward; so I just run up stairs and put on a pair of silk stockings and came off with the Richardsons."
 
 "I do not understand what you mean by interrupting them," said Elinor; "you were all in the same room together, were not you?"
@@ -19904,8 +19656,6 @@ She had wandered away to a subject on which Elinor had nothing to say, and there
 "Oh, la! there is nothing in _that._ I only stood at the door, and heard what I could. And I am sure Lucy would have done just the same by me; for a year or two back, when Martha Sharpe and I had so many secrets together, she never made any bones of hiding in a closet, or behind a chimney-board, on purpose to hear what we said."
 
 Elinor tried to talk of something else; but Miss Steele could not be kept beyond a couple of minutes, from what was uppermost in her mind.
-
-[Illustration: _Listening at the door._]
 
 "Edward talks of going to Oxford soon," said she; "but now he is lodging at No. --, Pall Mall. What an ill-natured woman his mother is, an't she? And your brother and sister were not very kind! However, I shan't say anything against them to _you_; and to be sure they did send us home in their own chariot, which was more than I looked for. And for my part, I was all in a fright for fear your sister should ask us for the huswifes she had gave us a day or two before; but, however, nothing was said about them, and I took care to keep mine out of sight. Edward have got some business at Oxford, he says; so he must go there for a time; and after _that_, as soon as he can light upon a Bishop, he will be ordained. I wonder what curacy he will get! Good gracious! (giggling as she spoke) I'd lay my life I know what my cousins will say, when they hear of it. They will tell me I should write to the Doctor, to get Edward the curacy of his new living. I know they will; but I am sure I would not do such a thing for all the world. 'La!' I shall say directly, 'I wonder how you could think of such a thing? I write to the Doctor, indeed!'"
 
@@ -20121,8 +19871,6 @@ When Mrs. Jennings came home, though she returned from seeing people whom she ha
 
 "Lord bless you, my dear! Sure you do not mean to persuade me that the Colonel only marries you for the sake of giving ten guineas to Mr. Ferrars!"
 
-[Illustration: _Both gained considerable amusement_]
-
 The deception could not continue after this; and an explanation immediately took place, by which both gained considerable amusement for the moment, without any material loss of happiness to either, for Mrs. Jennings only exchanged one form of delight for another, and still without forfeiting her expectation of the first.
 
 "Aye, aye, the parsonage is but a small one," said she, after the first ebullition of surprise and satisfaction was over, "and very likely _may_ be out of repair; but to hear a man apologising, as I thought, for a house that to my knowledge has five sitting rooms on the ground-floor, and I think the housekeeper told me could make up fifteen beds! and to you too, that had been used to live in Barton cottage! It seems quite ridiculous. But, my dear, we must touch up the Colonel to do some thing to the parsonage, and make it comfortable for them, before Lucy goes to it."
@@ -20197,8 +19945,6 @@ Elinor said no more, and John was also for a short time silent. His reflections 
 
 Elinor had heard enough, if not to gratify her vanity, and raise her self-importance, to agitate her nerves and fill her mind;--and she was therefore glad to be spared from the necessity of saying much in reply herself, and from the danger of hearing any thing more from her brother, by the entrance of Mr. Robert Ferrars. After a few moments' chat, John Dashwood, recollecting that Fanny was yet uninformed of her sister's being there, quitted the room in quest of her; and Elinor was left to improve her acquaintance with Robert, who, by the gay unconcern, the happy self-complacency of his manner while enjoying so unfair a division of his mother's love and liberality, to the prejudice of his banished brother, earned only by his own dissipated course of life, and that brother's integrity, was confirming her most unfavourable opinion of his head and heart.
 
-[Illustration: "_Of one thing I may assure you._"]
-
 They had scarcely been two minutes by themselves, before he began to speak of Edward; for he, too, had heard of the living, and was very inquisitive on the subject. Elinor repeated the particulars of it, as she had given them to John; and their effect on Robert, though very different, was not less striking than it had been on _him._ He laughed most immoderately. The idea of Edward's being a clergyman, and living in a small parsonage-house, diverted him beyond measure;--and when to that was added the fanciful imagery of Edward reading prayers in a white surplice, and publishing the banns of marriage between John Smith and Mary Brown, he could conceive nothing more ridiculous.
 
 Elinor, while she waited in silence and immovable gravity, the conclusion of such folly, could not restrain her eyes from being fixed on him with a look that spoke all the contempt it excited. It was a look, however, very well bestowed, for it relieved her own feelings, and gave no intelligence to him. He was recalled from wit to wisdom, not by any reproof of her's, but by his own sensibility.
@@ -20229,8 +19975,6 @@ Marianne entered the house with a heart swelling with emotion from the conscious
 
 In such moments of precious, invaluable misery, she rejoiced in tears of agony to be at Cleveland; and as she returned by a different circuit to the house, feeling all the happy privilege of country liberty, of wandering from place to place in free and luxurious solitude, she resolved to spend almost every hour of every day while she remained with the Palmers, in the indulgence of such solitary rambles.
 
-[Illustration: _Showing her child to the housekeeper._]
-
 She returned just in time to join the others as they quitted the house, on an excursion through its more immediate premises; and the rest of the morning was easily whiled away, in lounging round the kitchen garden, examining the bloom upon its walls, and listening to the gardener's lamentations upon blights, in dawdling through the green-house, where the loss of her favourite plants, unwarily exposed, and nipped by the lingering frost, raised the laughter of Charlotte,--and in visiting her poultry-yard, where, in the disappointed hopes of her dairy-maid, by hens forsaking their nests, or being stolen by a fox, or in the rapid decrease of a promising young brood, she found fresh sources of merriment.
 
 The morning was fine and dry, and Marianne, in her plan of employment abroad, had not calculated for any change of weather during their stay at Cleveland. With great surprise therefore, did she find herself prevented by a settled rain from going out again after dinner. She had depended on a twilight walk to the Grecian temple, and perhaps all over the grounds, and an evening merely cold or damp would not have deterred her from it; but a heavy and settled rain even _she_ could not fancy dry or pleasant weather for walking.
@@ -20238,8 +19982,6 @@ The morning was fine and dry, and Marianne, in her plan of employment abroad, ha
 Their party was small, and the hours passed quietly away. Mrs. Palmer had her child, and Mrs. Jennings her carpet-work; they talked of the friends they had left behind, arranged Lady Middleton's engagements, and wondered whether Mr. Palmer and Colonel Brandon would get farther than Reading that night. Elinor, however little concerned in it, joined in their discourse; and Marianne, who had the knack of finding her way in every house to the library, however it might be avoided by the family in general, soon procured herself a book.
 
 Nothing was wanting on Mrs. Palmer's side that constant and friendly good humour could do, to make them feel themselves welcome. The openness and heartiness of her manner more than atoned for that want of recollection and elegance which made her often deficient in the forms of politeness; her kindness, recommended by so pretty a face, was engaging; her folly, though evident was not disgusting, because it was not conceited; and Elinor could have forgiven every thing but her laugh.
-
-[Illustration: _The gardener's lamentations._]
 
 The two gentlemen arrived the next day to a very late dinner, affording a pleasant enlargement of the party, and a very welcome variety to their conversation, which a long morning of the same continued rain had reduced very low.
 
@@ -20311,8 +20053,6 @@ Never in her life had Elinor found it so difficult to be calm, as at that moment
 
 The bustle in the vestibule, as she passed along an inner lobby, assured her that they were already in the house. She rushed to the drawing-room,--she entered it,--and saw only Willoughby.
 
-[Illustration: _Opened a window-shutter._]
-
 Elinor, starting back with a look of horror at the sight of him, obeyed the first impulse of her heart in turning instantly to quit the room, and her hand was already on the lock, when its action was suspended by his hastily advancing, and saying, in a voice rather of command than supplication--
 
 "Miss Dashwood, for half an hour--for ten minutes--I entreat you to stay."
@@ -20336,8 +20076,6 @@ He was sitting in an attitude of deep meditation, and seemed not to hear her.
 Elinor would not speak. He repeated the inquiry with yet greater eagerness.
 
 "For God's sake tell me, is she out of danger, or is she not?"
-
-[Illustration: "_I entreat you to stay._"]
 
 "We hope she is."
 
@@ -20397,8 +20135,6 @@ Miss Dashwood, at this point, turning her eyes on him with the most angry contem
 
 "Why did you call, Mr. Willoughby?" said Elinor, reproachfully; "a note would have answered every purpose. Why was it necessary to call?"
 
-[Illustration: "_I was formally dismissed._"]
-
 "It was necessary to my own pride. I could not bear to leave the country in a manner that might lead you, or the rest of the neighbourhood, to suspect any part of what had really passed between Mrs. Smith and myself, and I resolved therefore on calling at the cottage, in my way to Honiton. The sight of your dear sister, however, was really dreadful; and, to heighten the matter, I found her alone. You were all gone I do not know where. I had left her only the evening before, so fully, so firmly resolved within my self on doing right! A few hours were to have engaged her to me for ever; and I remember how happy, how gay were my spirits, as I walked from the cottage to Allenham, satisfied with myself, delighted with every body! But in this, our last interview of friendship, I approached her with a sense of guilt that almost took from me the power of dissembling. Her sorrow, her disappointment, her deep regret, when I told her that I was obliged to leave Devonshire so immediately--I never shall forget it--united too with such reliance, such confidence in me! Oh, God! what a hard-hearted rascal I was!"
 
 They were both silent for a few moments. Elinor first spoke.
@@ -20426,8 +20162,6 @@ Elinor's heart, which had undergone many changes in the course of this extraordi
 "Watched us out of the house!"
 
 "Even so. You would be surprised to hear how often I watched you, how often I was on the point of falling in with you. I have entered many a shop to avoid your sight, as the carriage drove by. Lodging as I did in Bond Street, there was hardly a day in which I did not catch a glimpse of one or other of you; and nothing but the most constant watchfulness on my side, a most invariably prevailing desire to keep out of your sight, could have separated us so long. I avoided the Middletons as much as possible, as well as everybody else who was likely to prove an acquaintance in common. Not aware of their being in town, however, I blundered on Sir John, I believe, the first day of his coming, and the day after I had called at Mrs. Jennings's. He asked me to a party, a dance at his house in the evening. Had he _not_ told me as an inducement that you and your sister were to be there, I should have felt it too certain a thing, to trust myself near him. The next morning brought another short note from Marianne--still affectionate, open, artless, confiding--everything that could make _my_ conduct most hateful. I could not answer it. I tried--but could not frame a sentence. But I thought of her, I believe, every moment of the day. If you _can_ pity me, Miss Dashwood, pity my situation as it was _then._ With my head and heart full of your sister, I was forced to play the happy lover to another woman! Those three or four weeks were worse than all. Well, at last, as I need not tell you, you were forced on me; and what a sweet figure I cut! what an evening of agony it was! Marianne, beautiful as an angel on one side, calling me Willoughby in such a tone! Oh, God! holding out her hand to me, asking me for an explanation, with those bewitching eyes fixed in such speaking solicitude on my face! and Sophia, jealous as the devil on the other hand, looking all that was--Well, it does not signify; it is over now. Such an evening! I ran away from you all as soon as I could; but not before I had seen Marianne's sweet face as white as death. _That_ was the last, last look I ever had of her; the last manner in which she appeared to me. It was a horrid sight! yet when I thought of her to-day as really dying, it was a kind of comfort to me to imagine that I knew exactly how she would appear to those, who saw her last in this world. She was before me, constantly before me, as I travelled, in the same look and hue."
-
-[Illustration: "_I have entered many a shop to avoid your sight._"]
 
 A short pause of mutual thoughtfulness succeeded. Willoughby first rousing himself, broke it thus:
 
@@ -20561,8 +20295,6 @@ The next morning produced no abatement in these happy symptoms. On the contrary,
 
 Elinor honoured her for a plan which originated so nobly as this; though smiling to see the same eager fancy which had been leading her to the extreme of languid indolence and selfish repining, now at work in introducing excess into a scheme of such rational employment and virtuous self-control. Her smile however changed to a sigh when she remembered that promise to Willoughby was yet unfulfilled, and feared she had that to communicate which might again unsettle the mind of Marianne, and ruin at least for a time this fair prospect of busy tranquillity. Willing therefore to delay the evil hour, she resolved to wait till her sister's health were more secure, before she appointed it. But the resolution was made only to be broken.
 
-[Illustration: "_And see how the children go on._"]
-
 Marianne had been two or three days at home, before the weather was fine enough for an invalid like herself to venture out. But at last a soft, genial morning appeared; such as might tempt the daughter's wishes and the mother's confidence; and Marianne, leaning on Elinor's arm, was authorised to walk as long as she could without fatigue, in the lane before the house.
 
 The sisters set out at a pace, slow as the feebleness of Marianne in an exercise hitherto untried since her illness required;--and they had advanced only so far beyond the house as to admit a full view of the hill, the important hill behind, when pausing with her eyes turned towards it, Marianne calmly said--
@@ -20661,8 +20393,6 @@ Marianne gave a violent start, fixed her eyes upon Elinor, saw her turning pale,
 
 The servant, who saw only that Miss Marianne was taken ill, had sense enough to call one of the maids, who, with Mrs. Dashwood's assistance, supported her into the other room. By that time, Marianne was rather better, and her mother leaving her to the care of Margaret and the maid, returned to Elinor, who, though still much disordered, had so far recovered the use of her reason and voice as to be just beginning an inquiry of Thomas, as to the source of his intelligence. Mrs. Dashwood immediately took all that trouble on herself; and Elinor had the benefit of the information without the exertion of seeking it.
 
-[Illustration: "_I suppose you know, ma'am, that Mr. Ferrars is married._"]
-
 "Who told you that Mr. Ferrars was married, Thomas?"
 
 "I see Mr. Ferrars myself, ma'am, this morning in Exeter, and his lady too, Miss Steele as was. They was stopping in a chaise at the door of the New London Inn, as I went there with a message from Sally at the Park to her brother, who is one of the post-boys. I happened to look up as I went by the chaise, and so I see directly it was the youngest Miss Steele; so I took off my hat, and she knew me and called to me, and inquired after you, ma'am, and the young ladies, especially Miss Marianne, and bid me I should give her compliments and Mr. Ferrars's, their best compliments and service, and how sorry they was they had not time to come on and see you, but they was in a great hurry to go forwards, for they was going further down for a little while, but however, when they come back, they'd make sure to come and see you."
@@ -20726,8 +20456,6 @@ In a moment she perceived that the others were likewise aware of the mistake. Sh
 Not a syllable passed aloud. They all waited in silence for the appearance of their visitor. His footsteps were heard along the gravel path; in a moment he was in the passage, and in another he was before them.
 
 His countenance, as he entered the room, was not too happy, even for Elinor. His complexion was white with agitation, and he looked as if fearful of his reception, and conscious that he merited no kind one. Mrs. Dashwood, however, conforming, as she trusted, to the wishes of that daughter, by whom she then meant in the warmth of her heart to be guided in every thing, met with a look of forced complacency, gave him her hand, and wished him joy.
-
-[Illustration: _It was Edward._]
 
 He coloured, and stammered out an unintelligible reply. Elinor's lips had moved with her mother's, and, when the moment of action was over, she wished that she had shaken hands with him too. But it was then too late, and with a countenance meaning to be open, she sat down again and talked of the weather.
 
@@ -20893,8 +20621,6 @@ They were visited on their first settling by almost all their relations and frie
 
 But though Mrs. Ferrars _did_ come to see them, and always treated them with the make-believe of decent affection, they were never insulted by her real favour and preference. _That_ was due to the folly of Robert, and the cunning of his wife; and it was earned by them before many months had passed away. The selfish sagacity of the latter, which had at first drawn Robert into the scrape, was the principal instrument of his deliverance from it; for her respectful humility, assiduous attentions, and endless flatteries, as soon as the smallest opening was given for their exercise, reconciled Mrs. Ferrars to his choice, and re-established him completely in her favour.
 
-[Illustration: _Everything in such respectable condition_]
-
 The whole of Lucy's behaviour in the affair, and the prosperity which crowned it, therefore, may be held forth as a most encouraging instance of what an earnest, an unceasing attention to self-interest, however its progress may be apparently obstructed, will do in securing every advantage of fortune, with no other sacrifice than that of time and conscience. When Robert first sought her acquaintance, and privately visited her in Bartlett's Buildings, it was only with the view imputed to him by his brother. He merely meant to persuade her to give up the engagement; and as there could be nothing to overcome but the affection of both, he naturally expected that one or two interviews would settle the matter. In that point, however, and that only, he erred; for though Lucy soon gave him hopes that his eloquence would convince her in _time_, another visit, another conversation, was always wanted to produce this conviction. Some doubts always lingered in her mind when they parted, which could only be removed by another half hour's discourse with himself. His attendance was by this means secured, and the rest followed in course. Instead of talking of Edward, they came gradually to talk only of Robert,--a subject on which he had always more to say than on any other, and in which she soon betrayed an interest even equal to his own; and in short, it became speedily evident to both, that he had entirely supplanted his brother. He was proud of his conquest, proud of tricking Edward, and very proud of marrying privately without his mother's consent. What immediately followed is known. They passed some months in great happiness at Dawlish; for she had many relations and old acquaintances to cut--and he drew several plans for magnificent cottages; and from thence returning to town, procured the forgiveness of Mrs. Ferrars, by the simple expedient of asking it, which, at Lucy's instigation, was adopted. The forgiveness, at first, indeed, as was reasonable, comprehended only Robert; and Lucy, who had owed his mother no duty and therefore could have transgressed none, still remained some weeks longer unpardoned. But perseverance in humility of conduct and messages, in self-condemnation for Robert's offence, and gratitude for the unkindness she was treated with, procured her in time the haughty notice which overcame her by its graciousness, and led soon afterwards, by rapid degrees, to the highest state of affection and influence. Lucy became as necessary to Mrs. Ferrars, as either Robert or Fanny; and while Edward was never cordially forgiven for having once intended to marry her, and Elinor, though superior to her in fortune and birth, was spoken of as an intruder, _she_ was in every thing considered, and always openly acknowledged, to be a favourite child. They settled in town, received very liberal assistance from Mrs. Ferrars, were on the best terms imaginable with the Dashwoods; and setting aside the jealousies and ill-will continually subsisting between Fanny and Lucy, in which their husbands of course took a part, as well as the frequent domestic disagreements between Robert and Lucy themselves, nothing could exceed the harmony in which they all lived together.
 
 What Edward had done to forfeit the right of eldest son, might have puzzled many people to find out; and what Robert had done to succeed to it, might have puzzled them still more. It was an arrangement, however, justified in its effects, if not in its cause; for nothing ever appeared in Robert's style of living or of talking to give a suspicion of his regretting the extent of his income, as either leaving his brother too little, or bringing himself too much;--and if Edward might be judged from the ready discharge of his duties in every particular, from an increasing attachment to his wife and his home, and from the regular cheerfulness of his spirits, he might be supposed no less contented with his lot, no less free from every wish of an exchange.
@@ -20917,139 +20643,3 @@ Mrs. Dashwood was prudent enough to remain at the cottage, without attempting a 
 
 Between Barton and Delaford, there was that constant communication which strong family affection would naturally dictate;--and among the merits and the happiness of Elinor and Marianne, let it not be ranked as the least considerable, that though sisters, and living almost within sight of each other, they could live without disagreement between themselves, or producing coolness between their husbands.
 
-THE END
-
-End of the Project Gutenberg EBook of The Complete Works of Jane Austen, by Jane Austen
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE WORKS OF JANE AUSTEN ***
-
-***** This file should be named 31100.txt or 31100.txt ***** This and all associated files of various formats will be found in:
-http://www.gutenberg.org/3/1/1/0/31100/
-
-Produced by David Widger
-
-Updated editions will replace the previous one--the old editions will be renamed.
-
-Creating the works from public domain print editions means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties.  Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark.  Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission.  If you do not charge anything for copies of this eBook, complying with the rules is very easy.  You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research.  They may be modified and printed and given away--you may do practically ANYTHING with public domain eBooks.  Redistribution is subject to the trademark license, especially commercial redistribution.
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase "Project Gutenberg"), you agree to comply with all the terms of the Full Project Gutenberg-tm License (available with this file or online at http://gutenberg.org/license).
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement.  If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg-tm electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg-tm electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement.  There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement.  See paragraph 1.C below.  There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works.  Nearly all the individual works in the collection are in the public domain in the United States.  If an individual work is in the public domain in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed.  Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work.  You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern what you can do with this work.  Copyright laws in most countries are in a constant state of change.  If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work.  The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate access to, the full Project Gutenberg-tm License must appear prominently whenever any copy of a Project Gutenberg-tm work (any work on which the phrase "Project Gutenberg" appears, or with which the phrase "Project Gutenberg" is associated) is accessed, displayed, performed, viewed, copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.  You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges.  If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder.  Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form.  However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form.  Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-the use of Project Gutenberg-tm works calculated using the method
-you already use to calculate your applicable taxes.  The fee is
-owed to the owner of the Project Gutenberg-tm trademark, but he
-has agreed to donate royalties under this paragraph to the
-Project Gutenberg Literary Archive Foundation.  Royalty payments
-must be paid within 60 days following each date on which you
-prepare (or are legally required to prepare) your periodic tax
-returns.  Royalty payments should be clearly marked as such and
-sent to the Project Gutenberg Literary Archive Foundation at the
-address specified in Section 4, "Information about donations to
-the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-you in writing (or by e-mail) within 30 days of receipt that s/he
-does not agree to the terms of the full Project Gutenberg-tm
-License.  You must require such a user to return or
-destroy all copies of the works possessed in a physical medium
-and discontinue all use of and all access to other copies of
-Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-money paid for a work or a replacement copy, if a defect in the
-electronic work is discovered and reported to you within 90 days
-of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and Michael Hart, the owner of the Project Gutenberg-tm trademark.  Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread public domain works in creating the Project Gutenberg-tm collection.  Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from.  If you received the work on a physical medium, you must return the medium with your written explanation.  The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund.  If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund.  If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law.  The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg-tm electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg-tm electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg-tm work, (b) alteration, modification, or additions or deletions to any Project Gutenberg-tm work, and (c) any Defect you cause.
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers.  It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the assistance they need, are critical to reaching Project Gutenberg-tm's goals and ensuring that the Project Gutenberg-tm collection will remain freely available for generations to come.  In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg-tm and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation web page at http://www.pglaf.org.
-
-Section 3.  Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service.  The Foundation's EIN or federal tax identification number is 64-6221541.  Its 501(c)(3) letter is posted at http://pglaf.org/fundraising.  Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations.  Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org.  Email contact links and up to date contact information can be found at the Foundation's web site and official page at http://pglaf.org
-
-For additional contact information:
-Dr. Gregory B. Newby
-Chief Executive and Director
-gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment.  Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
-
-The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States.  Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements.  We do not solicit donations in locations where we have not received written confirmation of compliance.  To SEND DONATIONS or determine the status of compliance for any particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation methods and addresses.  Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: http://pglaf.org/donate
-
-Section 5.  General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone.  For thirty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as Public Domain in the U.S. unless a copyright notice is included.  Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
